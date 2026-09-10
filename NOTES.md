@@ -110,3 +110,85 @@ processing and analysis are consistent with Anthropic's report:
 
 These published values will be compared with values calculated from the
 downloaded data during the verification stage.
+
+## Step 4: Dataset Inventory
+
+The dataset inventory was generated using `src/inventory.py`. The script
+examines each CSV file in the local `data/` directory and reports file size,
+row count, column count, data types, and missing-value rates.
+
+### File Inventory
+
+| File | Size (MB) | Rows | Columns |
+|---|---:|---:|---:|
+| aei_raw_1p_api_2025-08-04_to_2025-08-11.csv | 6.70 | 33,794 | 10 |
+| aei_raw_claude_ai_2025-08-04_to_2025-08-11.csv | 18.02 | 100,062 | 10 |
+
+### Columns and Data Types
+
+Both datasets contain the same 10 fields:
+
+| Column | Data Type |
+|---|---|
+| geo_id | string |
+| geography | string |
+| date_start | string |
+| date_end | string |
+| platform_and_product | string |
+| facet | string |
+| level | integer |
+| variable | string |
+| cluster_name | string |
+| value | float |
+
+### Missing Values
+
+The first-party API dataset contained no missing values.
+
+The Claude.ai dataset had a small amount of missing data:
+- `cluster_name`: 0.4497% missing
+- `geo_id`: 0.0220% missing
+- All other fields: 0% missing
+
+These values have not been removed.
+
+### Claimed vs. Actual Verification
+
+The inventory and verification checks were generated using
+`src/inventory.py`.
+
+Automation is defined as the sum of the `directive` and `feedback loop`
+collaboration categories. Augmentation is defined as the sum of `learning`,
+`task iteration`, and `validation`.
+
+| Verification Target | Published / Expected | Calculated / Observed | Result |
+|---|---|---|---|
+| First-party API automation share | Approximately 77% | 77.37% | Verified |
+| Claude.ai automation share | Approximately 50% | 49.10% | Consistent |
+| Software development dominates API usage | Software development is the dominant category | Most of the largest classified O*NET task percentages are software, programming, debugging, web development, or other computing tasks | Supported |
+| Specific API use clusters around 6% | Approximately 6% for selected use clusters discussed in the report | The O*NET task table does not contain an exact one-to-one match for these report-level clusters | Not directly reproduced from this table |
+
+The first-party API automation result closely reproduces Anthropic's
+published value. The Claude.ai data also show a substantially lower
+automation share than the API data.
+
+For this release, the difference in automation share is
+28.27%.
+
+Inspection of the API O*NET task distribution also supports the report's
+broader finding that software development is a major source of API usage.
+Several of the largest classified tasks involve modifying software, writing
+programs, web development, machine learning, troubleshooting, debugging,
+software testing, and related computing activities.
+
+The approximately 6% report-level use-cluster findings were not directly
+reproduced from the O*NET task table. 
+Since the released O*NET tast categories do not appear
+to correspond to one-to-one with report-level cluster descriptions, I recorded
+the difference instead of treating unlike categories as equivalent.
+
+During verification, I came across an important structural issue in collaboration percentages
+in the Claude.ai file. These percentages pertained to many  
+contains collaboration percentages for many geographic groups in addition to global records. 
+Summing these geographic percentages produced invalid percentages greater than 100%. 
+The verification calculation now uses only records where `geo_id` is `GLOBAL`.
