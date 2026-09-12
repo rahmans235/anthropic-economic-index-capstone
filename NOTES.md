@@ -192,3 +192,60 @@ in the Claude.ai file. These percentages pertained to many
 contains collaboration percentages for many geographic groups in addition to global records. 
 Summing these geographic percentages produced invalid percentages greater than 100%. 
 The verification calculation now uses only records where `geo_id` is `GLOBAL`.
+
+## Step 5: Individual Record Inspection
+
+The released Economic Index files contain aggregated metric records rather
+than individual conversations. Therefore, the records inspected below
+represent aggregate measurements for particular platforms, categories, and
+time periods. Using `src/inspect_records.py`, six relevant records were chosen and inspected.
+
+### Record 1: 1P API — Directive Collaboration
+
+This record represents the global percentage of first-party API usage
+classified as `directive` from August 4 through August 11, 2025. The value is
+66.30%, indicating that directive interactions account for a large share of
+API usage and helping explain the high overall automation percentage observed
+during verification.
+
+### Record 2: 1P API — Feedback Loop Collaboration
+
+This record represents the global percentage of first-party API usage
+classified as `feedback loop` during the same period. Its value is 11.08%.
+Because feedback loop and directive interactions are both classified as
+automation, this record combines with Record 1 to produce the approximately
+77.37% API automation share.
+
+### Record 3: 1P API — Largest Classified O*NET Task
+
+The largest classified O*NET task in the global API data is modifying existing
+software to correct errors, adapt it to new hardware, or improve its
+performance. This task accounts for approximately 8.10% of API usage, which is
+consistent with the broader finding that software-related work is prominent
+in API usage.
+
+### Record 4: Claude.ai — Directive Collaboration
+
+This record represents the global percentage of Claude.ai Free and Pro usage
+classified as `directive`. The value is approximately 38.78%, which is
+substantially lower than the 66.30% directive share observed for the
+first-party API. This difference is consistent with the initial descriptive
+evidence that API usage is more automation-oriented.
+
+### Record 5: Claude.ai — Task Iteration Collaboration
+
+This record represents the global percentage of Claude.ai usage classified as
+`task iteration`, which is an augmentation-oriented collaboration pattern. Its value is
+approximately 22.22%, showing that a substantial portion of Claude.ai usage
+involves iterative collaboration between the user and Claude rather than
+direct task delegation.
+
+### Record 6: Claude.ai — Largest Classified O*NET Task
+
+The largest classified O*NET task in the global Claude.ai data is writing new
+programs or modifying existing programs to meet customer requirements using
+current programming languages and technologies. This task accounts for
+approximately 4.87% of Claude.ai usage. Like the API result, this indicates
+that software-related work is prominent, although the most common specific
+task and its percentage differ between the two platforms.
+
