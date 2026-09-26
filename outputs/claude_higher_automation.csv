@@ -1,0 +1,13 @@
+task,total_count_api,automation_count_api,automation_pct_api,platform_api,total_count_claude,automation_count_claude,automation_pct_claude,platform_claude,gap_pp,sufficient_count,combined_count
+respond to program error messages by finding and correcting problems or terminating the program.,2579.0,1409.0,54.63357890655293,API,2540.0,1720.0,67.71653543307087,Claude.ai,-13.082956526517949,True,5119.0
+"use materials such as pens and ink, watercolors, charcoal, oil, or computer software to create artwork.",246.0,127.0,51.6260162601626,API,438.0,281.0,64.15525114155251,Claude.ai,-12.529234881389913,True,684.0
+"counsel clients or patients, individually or in group sessions, to assist in overcoming dependencies, adjusting to life, or making changes.",104.0,0.0,0.0,API,172.0,19.0,11.046511627906977,Claude.ai,-11.046511627906977,True,276.0
+tutor and assist children individually or in small groups to help them master assignments and to reinforce learning concepts presented by teachers.,442.0,159.0,35.97285067873303,API,877.0,406.0,46.29418472063854,Claude.ai,-10.321334041905509,True,1319.0
+"answer telephones, responding to questions or requests.",335.0,46.0,13.73134328358209,API,434.0,88.0,20.27649769585253,Claude.ai,-6.545154412270444,True,769.0
+configure security settings or access permissions for groups or individuals.,852.0,339.0,39.7887323943662,API,162.0,75.0,46.2962962962963,Claude.ai,-6.507563901930098,True,1014.0
+respond to general inquiries or requests from the public.,222.0,52.0,23.423423423423426,API,597.0,167.0,27.97319932998325,Claude.ai,-4.549775906559827,True,819.0
+"administer, proctor, or score academic or diagnostic assessments.",425.0,284.0,66.82352941176471,API,185.0,131.0,70.8108108108108,Claude.ai,-3.987281399046097,True,610.0
+"create, analyze, report, convert, or transfer data, using specialized applications program software.",9959.0,7992.0,80.24902098604278,API,1162.0,967.0,83.2185886402754,Claude.ai,-2.96956765423262,True,11121.0
+"prepare, administer, and grade tests and assignments to evaluate students' progress.",177.0,122.0,68.92655367231639,API,236.0,167.0,70.76271186440678,Claude.ai,-1.8361581920903944,True,413.0
+write program code to analyze data using statistical analysis software.,477.0,289.0,60.58700209643606,API,272.0,168.0,61.76470588235294,Claude.ai,-1.1777037859168829,True,749.0
+"implement changes to machine programs and enter new specifications, using computers.",214.0,141.0,65.88785046728972,API,359.0,240.0,66.85236768802228,Claude.ai,-0.96451722073256,True,573.0
