@@ -7,6 +7,8 @@ Anthropic Economic Index
 
 ### Release
 September 15, 2025 release (`release_2025_09_15`)
+January 15, 2026 release (`release_2025_09_15`)
+March 24, 2026 release (`release_2025_09_15`)
 
 ### Primary Source
 https://huggingface.co/datasets/Anthropic/EconomicIndex
