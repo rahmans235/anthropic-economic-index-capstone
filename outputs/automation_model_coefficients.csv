@@ -1,0 +1,358 @@
+,coefficient,std_error,z_value,p_value
+Intercept,-0.09262696348574381,0.027011003671274087,-3.4292307169707876,0.000605294747584316
+C(platform)[T.API],1.00215176767283,0.0041006929140996835,244.38595834061735,0.0
+C(period)[T.Nov 2025],-0.10804973513183222,0.003665754580456073,-29.475441620641515,5.944265045279823e-191
+C(period)[T.Feb 2026],-0.12674483782960638,0.003717786422319149,-34.091479023300955,9.86536678291209e-255
+"C(task)[T.administer, proctor, or score academic or diagnostic assessments.]",0.014774084212030747,0.055967122542006725,0.26397791312108104,0.7917969380390346
+"C(task)[T.advise clients on market conditions, prices, mortgages, legal requirements and related matters.]",-0.6192894172373639,0.04162506235168073,-14.877801551505863,4.593469822647502e-50
+"C(task)[T.analyze and evaluate security operations to identify risks or opportunities for improvement through auditing, review, or assessment.]",-0.05867480065829332,0.0378925486783485,-1.548452207750798,0.12151345984066443
+"C(task)[T.analyze and record test data to issue reports that use charts, graphs, or narratives.]",-0.010902339940650013,0.043647694105627625,-0.24978043317171117,0.8027571522771652
+C(task)[T.analyze and report computer network security breaches or attempted breaches.],0.35656426831548027,0.03846722562631849,9.26930035920049,1.873709128449143e-20
+"C(task)[T.analyze business operations, trends, costs, revenues, financial commitments, and obligations to project future revenues and expenses or to provide advice.]",0.07845734157320282,0.05856653141009768,1.339627594194108,0.18036644803294344
+C(task)[T.analyze characteristics of animals to identify and classify them.],0.5200224700868695,0.0441641209473364,11.774772347602513,5.265906990146312e-32
+C(task)[T.analyze experimental data and interpret results to write reports and summaries of findings.],-0.2943001858984017,0.03518119485732197,-8.365269772443542,5.997753602342053e-17
+C(task)[T.analyze financial information obtained from clients to determine strategies for meeting clients' financial objectives.],-0.17085889029905374,0.04054106285662969,-4.214464995732423,2.5037097844003103e-05
+C(task)[T.analyze information obtained from management to conceptualize and define operational problems.],0.14817224153283448,0.0430959818680059,3.4381915693823957,0.0005856132442507788
+"C(task)[T.analyze information processing or computation needs and plan and design computer systems, using techniques such as structured analysis, data modeling and information engineering.]",-0.04535246779773159,0.0526933469936801,-0.8606867922656545,0.38941056935448626
+"C(task)[T.analyze information to determine, recommend, and plan computer specifications and layouts, and peripheral equipment modifications.]",-0.6161446242244866,0.04256703319189207,-14.47469034186405,1.7511258168429268e-47
+"C(task)[T.analyze information to determine, recommend, and plan layout, including type of computers and peripheral equipment modifications.]",-0.5229662681018196,0.03552480555302326,-14.721157792721929,4.7151782021086504e-49
+C(task)[T.analyze market conditions to determine optimum times to execute securities transactions.],1.1341030953403364,0.05204582665617245,21.790471363487043,2.8569494902378265e-105
+"C(task)[T.analyze operations to evaluate performance of a company or its staff in meeting objectives or to determine areas of potential cost reduction, program improvement, or policy change.]",-0.14751161021375675,0.033268300956019285,-4.433998911118641,9.250109317850255e-06
+"C(task)[T.analyze organic or inorganic compounds to determine chemical or physical properties, composition, structure, relationships, or reactions, using chromatography, spectroscopy, or spectrophotometry techniques.]",-0.4933316288527938,0.03416856960762097,-14.438170357086324,2.976386902784052e-47
+"C(task)[T.analyze organizational, occupational, and industrial data to facilitate organizational functions and provide technical information to business, industry, and government.]",0.02230823220865688,0.03372391373810423,0.6614959456337087,0.508294313842446
+"C(task)[T.analyze records, reports, test results, or examination information to diagnose medical condition of patient.]",-0.5453079473595375,0.04706158740782536,-11.58711334222577,4.790049969792815e-31
+"C(task)[T.analyze research data to determine its significance, using computers.]",-0.1741811090893642,0.05971532334373057,-2.916857840436549,0.0035357688351371464
+C(task)[T.analyze system performance or operational requirements.],-0.5058697435048997,0.03727357282506155,-13.571807185727286,5.885286931897383e-42
+C(task)[T.analyze target companies or investment opportunities to inform investment decisions.],0.8348770006834197,0.04574098441136159,18.252274441125603,1.98471474830653e-74
+"C(task)[T.analyze test data, making computations as necessary, to determine test results.]",-0.28363076697481215,0.04093377559285522,-6.929015534651009,4.237792725742686e-12
+C(task)[T.analyze user needs and software requirements to determine feasibility of design within time and cost constraints.],-0.39008268683048275,0.02824536046139569,-13.810504821265345,2.202824525267126e-43
+"C(task)[T.analyze, interpret, or create graphical representations of energy data, using engineering software.]",0.06474174072774827,0.06029621133164574,1.0737281712718383,0.28294453130952124
+"C(task)[T.analyze, interpret, or disseminate system performance data.]",-0.41991706877388807,0.042609651589332304,-9.854975413106123,6.523265856743674e-23
+C(task)[T.answer customers' questions about merchandise and advise customers on merchandise selection.],0.3917937886178832,0.05758062831585323,6.80426386576983,1.0156723161874818e-11
+"C(task)[T.answer customers' questions about products, prices, availability, or credit terms.]",0.04183184391022312,0.03207616897542598,1.3041409010618166,0.19218554560406775
+"C(task)[T.answer customers' questions about products, prices, availability, product uses, and credit terms.]",-0.07295217678304476,0.03701726600803503,-1.9707608003035566,0.048751242397979566
+"C(task)[T.answer customers' questions, and provide information on procedures or policies.]",-0.017073625519016415,0.02955281763082522,-0.577732578067537,0.5634446807621121
+"C(task)[T.answer inquiries from current or prospective customers regarding methods, materials, or price ranges.]",-0.5564853083675999,0.05376923401711033,-10.349511547635519,4.2062625801201755e-25
+"C(task)[T.answer inquiries regarding information such as schedules, accommodations, procedures, and policies.]",0.5457082943316851,0.03955374100174675,13.796629105388181,2.670510699692671e-43
+C(task)[T.answer questions about product features and benefits.],-0.15654434043264248,0.04295115881856019,-3.6447058644898784,0.0002676977841679907
+"C(task)[T.answer telephones and give information to callers, take messages, or transfer calls to appropriate individuals.]",-1.276440875098076,0.050491435592912824,-25.280344282332948,5.255196614468293e-141
+C(task)[T.assess risks to mitigate potential consequences of incidents and develop a plan to respond to incidents.],-0.1596561041950724,0.06499725230949917,-2.4563515921385974,0.014035576163360854
+C(task)[T.assess the usefulness of pre-developed application packages and adapt them to a user environment.],-0.05742904552206298,0.03077763136692162,-1.8659345430910927,0.06205052400826565
+C(task)[T.assist customers by providing information and resolving their complaints.],-0.1430967457317037,0.05003896505763726,-2.8597063421850963,0.004240334599776637
+C(task)[T.assist students who need extra help with their coursework outside of class.],-0.4398741544620712,0.028149765432874046,-15.626210296884905,4.826689024687122e-55
+"C(task)[T.break systems into their component parts, assign numerical values to each component, and examine the mathematical relationships between them.]",0.08507987416756396,0.04888022107171133,1.74057875153111,0.08175744489472944
+"C(task)[T.classify, record, and summarize numerical and financial data to compile and keep financial records, using journals and ledgers or computers.]",0.9770056345407717,0.0502902845783088,19.427323641794892,4.533942048865153e-84
+"C(task)[T.code, evaluate, or interpret collected study data.]",0.7246060441852118,0.036850183001049856,19.66356704835273,4.42493155563503e-86
+C(task)[T.collaborate with management or users to develop e-commerce strategies and to integrate these strategies with web sites.],-0.21592414301966606,0.06050044991907203,-3.568967558232961,0.00035839079664550877
+C(task)[T.collaborate with search engine shopping specialists to place marketing content in desired online locations.],0.3978757539244407,0.06265244673681111,6.350522200606587,2.1458523847475957e-10
+"C(task)[T.collaborate with system architects, software architects, design analysts, and others to understand business or industry requirements.]",-1.0552373755497952,0.047142154553165394,-22.384156718160447,5.615769449176389e-111
+"C(task)[T.collaborate with web, multimedia, or art design staffs to create multimedia web sites or other internet content that conforms to brand and company visual format.]",0.16878350139301718,0.059530438349659404,2.8352470781694294,0.004579025649413125
+"C(task)[T.collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential markets and factors affecting product demand.]",0.7629966422423401,0.03912881633965322,19.499609587451737,1.1062347151701654e-84
+"C(task)[T.collect and analyze data to evaluate the effectiveness of academic programs and other services, such as behavioral management systems.]",0.3637783337654166,0.0695764726721689,5.228467609725932,1.709207699620269e-07
+"C(task)[T.collect business intelligence data from available industry reports, public information, field reports, or purchased sources.]",1.4159946056150297,0.04187517105180411,33.81465842523464,1.2009977164242969e-250
+C(task)[T.compile and analyze data obtained from monitoring or diagnostic tests.],0.07916903247358135,0.04286687530013798,1.846858020774062,0.06476772021251993
+C(task)[T.compile and format image data to increase its usefulness.],1.1749297491772766,0.06011604300149221,19.54436271110047,4.6070915642974796e-85
+"C(task)[T.compile and study occupational, educational, and economic information to assist counselees in determining and carrying out vocational and educational objectives.]",0.03808219915356713,0.0610193044146175,0.6241008401997505,0.5325613621722265
+"C(task)[T.compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.]",0.036020800107276686,0.028598215407849775,1.2595471288529956,0.2078327786478782
+"C(task)[T.compile reports, charts, or graphs that describe and interpret findings of analyses.]",0.6424095600445789,0.03525556613090408,18.22150742550295,3.4842297059871453e-74
+"C(task)[T.compile statistical, financial, accounting, or auditing reports and tables pertaining to such matters as cash receipts, expenditures, accounts payable and receivable, and profits and losses.]",0.5947181524498895,0.0669200812447923,8.886990891036467,6.2786154908527705e-19
+"C(task)[T.compile, analyze, and report data to explain economic phenomena and forecast market trends, applying mathematical models and statistical techniques.]",-0.0031415510894336335,0.06629117009440683,-0.047390189145246286,0.9622022481644038
+"C(task)[T.compile, record, and code results or data from interview or survey, using computer or specified form.]",1.1523991433425282,0.03820897787628965,30.160428448876214,7.829338864375161e-200
+"C(task)[T.compile, sort and verify the accuracy of data before it is entered.]",0.7434746136688719,0.053201595967333246,13.974667491655305,2.2255056751945563e-44
+C(task)[T.complete form letters in response to requests or problems identified by correspondence.],0.27745536029212914,0.05562820292662768,4.987674339544752,6.111046593792645e-07
+"C(task)[T.complete models and simulations, using manual or automated tools, to analyze or predict system performance under different operating conditions.]",0.9374916000748903,0.04799990206773273,19.53111485002604,5.97213549685485e-85
+"C(task)[T.compose descriptions of merchandise for posting to online storefront, auction sites, or other shopping web sites.]",0.9743616243947385,0.042065548016002756,23.16293666313506,1.0768321056095978e-118
+"C(task)[T.compose images of products, using video or still cameras, lighting equipment, props, or photo or video editing software.]",0.36267560399115506,0.05069011979431688,7.154759260044527,8.381988971950764e-13
+"C(task)[T.compute dimensions, areas, volumes, and weights.]",0.7058163599835773,0.04853996745320596,14.540931875654968,6.667872204544004e-48
+"C(task)[T.conduct classes, workshops, and demonstrations to teach principles, techniques, or methods in subjects, such as basic english language skills, life skills, and workforce entry skills.]",-1.0659180042148495,0.03475910524783273,-30.66586428548274,1.624030337727663e-206
+"C(task)[T.conduct classes, workshops, and demonstrations, and provide individual instruction to teach topics and skills such as cooking, dancing, writing, physical fitness, photography, personal finance, and flying.]",-1.0420878399436644,0.036317290180606,-28.693986659284278,4.534781080258982e-181
+C(task)[T.conduct internet-based and library research.],0.22497202369545033,0.03529806023819528,6.373495375590438,1.8476785085398285e-10
+"C(task)[T.conduct logical analyses of business, scientific, engineering, and other technical problems, formulating mathematical models of problems for solution by computers.]",-0.12857513137082865,0.0296799600202614,-4.332052040604341,1.4772601180000579e-05
+C(task)[T.conduct materials test and analysis using tools and equipment and applying engineering knowledge.],-0.3238571930171466,0.04732645297782998,-6.843048076492382,7.752561887463383e-12
+"C(task)[T.conduct reference searches, using printed materials and in-house and online databases.]",0.08670173684779489,0.05871393256133332,1.4766807990118045,0.1397612214894593
+"C(task)[T.conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.]",-0.33382831968565246,0.035364046745743304,-9.43976581882091,3.7361346678314096e-21
+"C(task)[T.conduct research to extend mathematical knowledge in traditional areas, such as algebra, geometry, probability, and logic.]",-1.2810105169082509,0.042803468448208246,-29.927726965824284,8.577586137697106e-197
+C(task)[T.conduct research to gather information about survey topics.],0.009953873255404326,0.03935821412766537,0.2529045963091,0.800341937572455
+"C(task)[T.conduct research, compile data, and prepare papers for consideration and presentation by executives, committees, and boards of directors.]",0.2851225202142682,0.04704317829446313,6.06086855844573,1.353884401973603e-09
+"C(task)[T.conduct searches to find needed information, using such sources as the internet.]",1.0799870854618467,0.032323125856533186,33.41221051006608,9.114218535351061e-245
+C(task)[T.confer with clients regarding the nature of the information processing or computation needs a computer program is to address.],-1.0476828426950924,0.03054228471548165,-34.30270041861112,7.152503968569813e-258
+C(task)[T.configure security settings or access permissions for groups or individuals.],-0.17139661526955474,0.04190672590107382,-4.089954812364926,4.3145723922066784e-05
+C(task)[T.configure servers to meet functional specifications.],0.39536304960105695,0.034493575714590226,11.461932879107826,2.0489046906510195e-30
+C(task)[T.consult with and assist computer operators or system analysts to define and resolve problems in running computer programs.],-1.2993897072477192,0.04675307493357111,-27.79260421039581,5.329138829800235e-170
+C(task)[T.consult with multiple stakeholders to define requirements and implement online features.],-0.9014853168701203,0.03547240807053877,-25.41370507120545,1.7793678262444803e-142
+"C(task)[T.consult with users, management, vendors, and technicians to assess computing needs and system requirements.]",-0.7423242293420947,0.05019156217043647,-14.789821181922367,1.7040591967158014e-49
+"C(task)[T.contact prospective customers to determine customer needs, present information, or explain available services.]",0.9854459376245336,0.04718333645025067,20.88546533082864,7.25941050061879e-97
+"C(task)[T.contribute to the compilation, organization, and production of protocols, clinical study reports, regulatory submissions, or other controlled documentation.]",0.3634996207634077,0.06982746981879633,5.20568225809551,1.9328513173799574e-07
+C(task)[T.coordinate implementation of computer system plan with establishment personnel and outside vendors.],0.15450172353751834,0.04561525502109626,3.387062583911106,0.0007064527044913739
+"C(task)[T.coordinate with developers to optimize web site architecture, server configuration, or page construction for search engine consumption and optimal visibility.]",0.17454204130748316,0.07438321259921772,2.3465246418964,0.018949413140200523
+C(task)[T.correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.],0.8140205306799666,0.028353576467445653,28.709624396576203,2.8933123698545627e-181
+"C(task)[T.create business intelligence tools or systems, including design of related databases, spreadsheets, or outputs.]",0.5790881441300519,0.05803838096973284,9.97767571138912,1.908857864956025e-23
+C(task)[T.create content strategies for digital media.],0.13527237832827785,0.06072554716559797,2.2276024612736944,0.025907036399038998
+C(task)[T.create custom illustrations or other graphic elements.],0.13339931453915788,0.04403747538733332,3.029222573860991,0.0024518397538235716
+"C(task)[T.create finished art work as decoration, or to elucidate or substitute for spoken or written messages.]",0.13377974401163342,0.04119845100413406,3.247203250389421,0.0011654512854285652
+"C(task)[T.create supporting documentation, such as metadata and diagrams of entity relationships, business processes, and process flow.]",0.052944108922588586,0.04568312482048884,1.1589423694336076,0.24647967692098383
+"C(task)[T.create, analyze, report, convert, or transfer data, using specialized applications program software.]",0.7862916020520345,0.03475377370901241,22.624639517870023,2.4798145731971958e-113
+"C(task)[T.create, maintain, and enter information into databases.]",1.1491091715446176,0.04611616318947412,24.91770980216538,4.782926300858505e-137
+C(task)[T.debug robotics programs.],0.756777190540599,0.07403478196819023,10.221914219532053,1.5818581362336516e-24
+C(task)[T.define the goals of the system and devise flow charts and diagrams describing logical operational steps of programs.],-0.3883794978314297,0.04076107426003648,-9.52819583099678,1.6004030165735556e-21
+"C(task)[T.demonstrate database technical functionality, such as performance, security and reliability.]",-0.9140902058384895,0.046416942867467094,-19.69302908311872,2.4744114240565883e-86
+C(task)[T.design and create special programs for tasks such as statistical analysis and data entry and cleaning.],0.35341757728675205,0.04369386911999963,8.08849352105065,6.040719995084163e-16
+C(task)[T.design and implement warehouse database structures.],0.1105254812054985,0.0755414010840177,1.4631113484719624,0.14343691306883716
+"C(task)[T.design database applications, such as interfaces, data transfer mechanisms, global temporary tables, data partitions, and function-based indexes to enable efficient access of the generic database structure.]",0.15078197886897654,0.04190658836721472,3.598049489204891,0.000320612621798846
+"C(task)[T.design databases to support business applications, ensuring system scalability, security, performance and reliability.]",-0.19075831085419617,0.03709394333323266,-5.142572983964603,2.7100111003964313e-07
+"C(task)[T.design information storage and retrieval systems and develop procedures for collecting, organizing, interpreting, and classifying information.]",0.20232815206198188,0.048857958687143876,4.141150336582134,3.455683634694633e-05
+C(task)[T.design or develop automated testing tools.],0.7100163303219249,0.04568685409647231,15.540932821127392,1.8329586267097752e-54
+"C(task)[T.design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.]",0.6011421772385109,0.027870802391134042,21.568886636351014,3.520658030374696e-103
+"C(task)[T.design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcome and consequences of design.]",0.023842403707028094,0.03118929114188645,0.7644419874297281,0.4446038954229078
+"C(task)[T.design, develop, select, test, implement, and evaluate new or modified informatics solutions, data structures, and decision-support mechanisms to support patients, health care professionals, and their information management and human-computer and human-technology interactions within health care contexts.]",0.047134807265144206,0.07996514675019731,0.5894418903824235,0.5555648825198645
+"C(task)[T.determine existence and amount of liability according to current laws, administrative and judicial precedents, and available evidence.]",-0.3024097786629226,0.040301125919390855,-7.503755087830397,6.201512438562259e-14
+"C(task)[T.determine sources of web page or server problems, and take action to correct such problems.]",0.8206690972407114,0.03129396899881202,26.22451301309417,1.3963656497596374e-151
+"C(task)[T.determine supplementary virtual features, such as currency, item catalog, menu design, and audio direction.]",0.4309920372599144,0.037185292680373835,11.590389807188188,4.61029588701803e-31
+"C(task)[T.develop and direct software system testing and validation procedures, programming, and documentation.]",0.4352797840873332,0.033917036977086104,12.833661866789909,1.0622242440079271e-37
+C(task)[T.develop and document database architectures.],-0.40022976716704833,0.0546736470363162,-7.320341496538568,2.473407050143794e-13
+C(task)[T.develop and document style guidelines for web site content.],0.3229953705815062,0.05890242129933122,5.483566947784768,4.168344270226225e-08
+"C(task)[T.develop and implement data extraction procedures from other systems, such as administration, billing, or claims.]",0.8071973046021335,0.06576015909053193,12.274868488241733,1.2359246683149239e-34
+C(task)[T.develop and maintain computer databases.],0.6277019084959251,0.054356186189960576,11.547938744309102,7.561214338784931e-31
+"C(task)[T.develop and maintain the company's corporate image and identity, which includes the use of logos and signage.]",-0.36040652953039076,0.04327207208554549,-8.328848427177126,8.163250175683194e-17
+C(task)[T.develop application-specific software.],0.6777457080472594,0.0340625377859139,19.897099632063586,4.3116721694087954e-88
+"C(task)[T.develop briefings, brochures, multimedia presentations, web pages, promotional products, technical illustrations, and computer artwork for use in products, technical manuals, literature, newsletters, and slide shows.]",0.24053831148699262,0.030618521523644995,7.855974080957441,3.966771033975433e-15
+"C(task)[T.develop data model describing data elements and how they are used, following procedures and using pen, template or computer software.]",-0.05641506537200647,0.05155383156397608,-1.0942943261549396,0.2738259129514148
+"C(task)[T.develop data models for applications, metadata tables, views or related database structures.]",-0.1265906238132176,0.05444373420876,-2.325164238878551,0.020063179754880086
+"C(task)[T.develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements.]",-0.9066886110382083,0.04998295442054476,-18.139956342107045,1.5415356933729334e-73
+"C(task)[T.develop factors such as themes, plots, characterizations, psychological analyses, historical environments, action, and dialogue, to create material.]",0.1456263092502558,0.029057289656742,5.011696237693213,5.395232465957601e-07
+C(task)[T.develop instructional materials and products for technology-based redesign of courses.],0.08550920696285125,0.05731784604394985,1.491842643516035,0.13574040180432484
+C(task)[T.develop instructional materials to be used by educators and instructors.],0.3555450005327415,0.029317262720285366,12.127496483044128,7.5523116909334776e-34
+"C(task)[T.develop instructional materials, such as lesson plans, handouts, or examinations.]",0.26954385484448223,0.029941001692660063,9.00249956936344,2.206360578161982e-19
+C(task)[T.develop mathematical or statistical models of phenomena to be used for analysis or for computational simulation.],-0.21793737689916357,0.06042383010442491,-3.606811692051341,0.00030998244842896544
+C(task)[T.develop new software applications or customize existing applications to meet specific scientific project needs.],0.6796048107836555,0.030375163863872994,22.37370023185127,7.099674741796695e-111
+C(task)[T.develop or analyze information to assess the current or future financial status of firms.],0.5414664855584868,0.04427704653296205,12.229056090166086,2.174507362308103e-34
+C(task)[T.develop or apply data mining and machine learning algorithms.],0.47742908511227017,0.028315891210508176,16.860817890665356,8.737158352453198e-64
+"C(task)[T.develop or configure document management system features, such as user interfaces, access profiles, and document workflow procedures.]",0.5351018454863418,0.0576621408821347,9.27995106147942,1.6955642546797687e-20
+C(task)[T.develop or direct software system testing or validation procedures.],0.27375747165396475,0.03590522103606335,7.6244474690464,2.4508184170800982e-14
+C(task)[T.develop or document style guidelines for web site content.],0.24176921724047434,0.056159329803499664,4.305058804768858,1.6694138469358863e-05
+"C(task)[T.develop or implement policies or practices to ensure the privacy, confidentiality, or security of patient information.]",0.13160475866477928,0.055572068197851696,2.368181767074612,0.017875751236555944
+C(task)[T.develop or implement procedures for ongoing web site revision.],0.317755892347577,0.03820495038365228,8.31713924914671,9.01118602227241e-17
+C(task)[T.develop or maintain internal or external company web sites.],0.6157676597593271,0.03385690150957471,18.18736010397137,6.499623540972459e-74
+"C(task)[T.develop or manage integrated security controls to ensure confidentiality, accountability, recoverability, or audit ability of sensitive information, proprietary information, or information technology resources.]",-0.11019525849751469,0.05662465401944493,-1.9460650207182475,0.05164692970236412
+C(task)[T.develop specialized computer software routines to customize and integrate image analysis.],0.5892134808066057,0.06103216833005681,9.654146279388092,4.720748270411013e-22
+C(task)[T.develop standards and guidelines to guide the use and acquisition of software and to protect vulnerable information.],-0.3546078459387461,0.04516174456583859,-7.851951897513274,4.096116069887879e-15
+"C(task)[T.develop teaching aids such as instructional software, multimedia visual aids, or study materials.]",0.04773586414065364,0.036934950194882944,1.2924307164022406,0.19620802505201929
+"C(task)[T.develop teaching materials, such as syllabi, visual aids, answer keys, supplementary notes, or course web sites.]",0.35848196514240943,0.04195957065097549,8.54350889632078,1.3020648766306231e-17
+"C(task)[T.develop teaching or training materials, such as handouts, study materials, or quizzes.]",0.3996529159012353,0.03410148405651026,11.719516817478159,1.012478140335382e-31
+"C(task)[T.develop transactional web applications, using web programming software and knowledge of programming languages, such as hypertext markup language (html) and extensible markup language (xml).]",0.8543060438724827,0.03373462650492058,25.324307169900706,1.7248187957990135e-141
+"C(task)[T.develop web site maps, application models, image templates, or page templates that meet project goals, user needs, or industry standards.]",0.45138436935582044,0.046718240558977255,9.661844366463061,4.379078882126006e-22
+"C(task)[T.develop, copy, or adapt designs for garments, and design patterns to fit measurements, applying knowledge of garment design, construction, styling, and fabric.]",0.04966654739136127,0.042302806252748196,1.1740721666221539,0.24036612087639064
+"C(task)[T.develop, implement, modify, and document recordkeeping and accounting systems, making use of current computer technology.]",0.4369171768780096,0.05428173325382619,8.049064587435819,8.342921407382252e-16
+"C(task)[T.devise trading, option, or hedge strategies.]",-0.010329515908883783,0.06609987806746759,-0.1562713307631299,0.8758191534193562
+"C(task)[T.diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.]",1.0045400485830176,0.028043876814017023,35.82029885685861,5.3357106863157393e-281
+C(task)[T.direct software programming and development of documentation.],0.31100482043854494,0.04282153303052549,7.262813786158567,3.7911969980195056e-13
+C(task)[T.discuss the treatment of problems with clients.],-2.0323483425075537,0.044863652767602666,-45.30055439389391,0.0
+"C(task)[T.document all database changes, modifications, or problems.]",0.008997535589320982,0.049508597810271414,0.18173682930390503,0.855789261634369
+"C(task)[T.document and communicate database schemas, using accepted notations.]",-0.2867864177790005,0.045319356815574786,-6.328121975474315,2.4816294521203393e-10
+"C(task)[T.document findings of study and prepare recommendations for implementation of new systems, procedures, or organizational changes.]",-0.32821074881885687,0.044072836480805025,-7.4470076134492045,9.548111155472917e-14
+"C(task)[T.document software defects, using a bug tracking system, and report defects to software developers.]",0.08596429167733322,0.03020927048627475,2.84562620326731,0.004432419155745315
+"C(task)[T.edit instructional materials, such as books, simulation exercises, lesson plans, instructor guides, and tests.]",-0.35396262724327215,0.040547961429077434,-8.729480219674898,2.5584569449859407e-18
+"C(task)[T.edit or rewrite existing copy as necessary, and submit copy for approval by supervisor.]",-0.250894757448875,0.03085194789003351,-8.13221772392286,4.2150687181390163e-16
+"C(task)[T.edit, standardize, or make changes to material prepared by other writers or establishment personnel.]",-0.062024137716653424,0.028891450905613708,-2.146798993213661,0.03180928753451427
+"C(task)[T.encourage clients to express their feelings and discuss what is happening in their lives, helping them to develop insight into themselves or their relationships.]",-2.8860597279912446,0.08874736283535316,-32.51994916565072,5.5711766133839194e-232
+C(task)[T.encourage individuals and family members to develop and use skills and strategies for confronting their problems in a constructive manner.],-0.9716169713391644,0.051970156995756495,-18.69567127569962,5.369049237159616e-78
+"C(task)[T.evaluate and grade students' class work, assignments, and papers.]",-0.41159090803384946,0.03284667238044755,-12.53067291768815,5.073040207188573e-36
+"C(task)[T.evaluate code to ensure that it is valid, is properly structured, meets industry standards, and is compatible with browsers, devices, or operating systems.]",-0.03342541877006648,0.031117744464289162,-1.074159433644865,0.282751230482984
+"C(task)[T.evaluate curricula, teaching methods, and programs to determine their effectiveness, efficiency, and utilization, and to ensure that school activities comply with federal, state, and local regulations.]",-0.20983731068635458,0.052746316166264344,-3.978236319384196,6.942834903533113e-05
+C(task)[T.evaluate or recommend server hardware or software.],-0.606812438705455,0.03954286142982889,-15.345688621504515,3.7852127017948617e-53
+C(task)[T.evaluate or recommend software for testing or bug tracking.],-0.581546195654211,0.04440261095039021,-13.097117111062593,3.420031328233096e-39
+C(task)[T.evaluate sources of information to determine any limitations in terms of reliability or usability.],-0.19875881223849157,0.03597745641250306,-5.524537642672759,3.3035440632958035e-08
+"C(task)[T.examine physiological, morphological, and cultural characteristics, using microscope, to identify and classify microorganisms in human, water, and food specimens.]",-0.26119809660751825,0.06885686031892117,-3.793348918288446,0.00014862907679566618
+"C(task)[T.explain products or services and prices, and answer questions from customers.]",-0.5025532155283553,0.0670348454843436,-7.496895262415868,6.53471527107054e-14
+"C(task)[T.extend existing software programs, web-based interactive tools, or database queries as sequence management and analysis needs evolve.]",0.5992503710927954,0.046948841940076674,12.763901010756577,2.6080556894392614e-37
+"C(task)[T.file and store completed documents on computer hard drive or disk, or maintain a computer filing system to store, retrieve, update and delete documents.]",0.27543376545862086,0.06304052531902155,4.369154033294719,1.2472876978410486e-05
+"C(task)[T.formulate, direct, or coordinate marketing activities or policies to promote products or services, working with advertising or promotion managers.]",-0.18408586466017318,0.06537503772731589,-2.8158433411237014,0.004864938284643599
+C(task)[T.gather and organize information to plan advertising campaigns.],1.000878368131435,0.06558563284149276,15.260634452523409,1.3988159845341634e-52
+"C(task)[T.gather data on competitors and analyze their prices, sales, and method of marketing and distribution.]",0.7669256398342791,0.046442151037082005,16.513568443931955,2.9303197167697886e-61
+"C(task)[T.generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, clients, and other stakeholders.]",0.729371307323198,0.04826366025061,15.112225296132188,1.3451908506047076e-51
+C(task)[T.greet customers and ascertain what each customer wants or needs.],-3.9570177428155637,0.08939890853266817,-44.26248382405686,0.0
+C(task)[T.greet customers and ask about the quality of service they are receiving.],-3.511772008598837,0.16197355721514556,-21.68114394088558,3.0910101574730214e-104
+C(task)[T.greet customers entering establishments.],-3.9021482482168444,0.14389759657759768,-27.11753594934149,6.11704932942708e-162
+C(task)[T.greet visitors or callers and handle their inquiries or direct them to the appropriate persons according to their needs.],-2.262011933514618,0.07051964539510633,-32.07633732190589,9.427618285288114e-226
+C(task)[T.help programmers and systems analysts test and debug new programs.],-0.1877242820930644,0.03305591918544017,-5.678991439927937,1.3549125923457788e-08
+C(task)[T.identify and report problems in obtaining valid data.],-0.5472630838944926,0.05374407954249634,-10.182760381294884,2.3674848885564433e-24
+C(task)[T.identify methods for interfacing web application technologies with enterprise resource planning or other system software.],-0.10674472863900758,0.046268260808537284,-2.3070832310020903,0.02105018060117715
+C(task)[T.identify potential for loss and develop strategies to eliminate it.],0.11765039490364469,0.07231942044439783,1.6268160637998916,0.1037761688777045
+"C(task)[T.identify relationships and trends in data, as well as any factors that could affect the results of research.]",-0.008568740923787725,0.05946534849461023,-0.14409637109188675,0.8854243702663994
+"C(task)[T.identify, evaluate and recommend hardware or software technologies to achieve desired database performance.]",-0.8318359718552496,0.052134297627581816,-15.955637837444733,2.603006585883306e-57
+"C(task)[T.identify, investigate, or resolve security breaches.]",0.01609634610060534,0.03244164419677386,0.4961630798665264,0.6197793570977264
+"C(task)[T.inform investment decisions by analyzing financial information to forecast business, industry, or economic conditions.]",0.611755798291995,0.04230509484113719,14.460570306939196,2.1500889524232125e-47
+"C(task)[T.inform other traders, managers, or customers of market conditions, including volume, price, competition, or dynamics.]",0.5502256705049301,0.06311857427235801,8.71733363511499,2.8482988882622302e-18
+"C(task)[T.install and configure new equipment, including operating software or peripheral equipment.]",0.5805372176326,0.0442263363520943,13.126504827594863,2.3212539996206697e-39
+"C(task)[T.install updated software, and programs that maintain existing software or provide requested features such as time-correlated call routing.]",1.005962274811678,0.07600196131329842,13.236004142904404,5.436524882383673e-40
+"C(task)[T.instruct individuals in career development techniques such as job search and application strategies, resume writing, and interview skills.]",-0.7157904603478462,0.029726926093546234,-24.07885894745254,4.1633699392307274e-128
+"C(task)[T.instruct students in the knowledge and skills required in a specific occupation or occupational field, using a systematic plan of lectures, discussions, audio-visual presentations, and laboratory, shop and field studies.]",-1.0649746012601091,0.044176901312656294,-24.10704620776567,2.1086428900000722e-128
+"C(task)[T.instruct through lectures, discussions, and demonstrations in one or more subjects, such as english, mathematics, or social studies.]",-1.0948930470339,0.032786141316701344,-33.394995661662655,1.6206105811833855e-244
+"C(task)[T.interact with clients to assist them in gaining insight, defining goals, and planning action to achieve effective personal, social, educational, and vocational development and adjustment.]",-1.4299538204377948,0.034013362209489584,-42.0409429573782,0.0
+"C(task)[T.interpret and analyze policies, public issues, legislation, or the operations of governments, businesses, and organizations.]",-0.40446533834022147,0.05436527979531938,-7.439772955514968,1.0085849562194897e-13
+"C(task)[T.interpret data on price, yield, stability, future investment-risk trends, economic influences, and other factors affecting investment programs.]",0.1869571337937626,0.05717076972650256,3.2701524693150175,0.001074895307529038
+C(task)[T.interpret government regulations and applicable codes to ensure compliance.],-0.41210491405025546,0.05488587225107941,-7.508396917972837,5.985579072924244e-14
+C(task)[T.interpret results of financial analysis procedures.],-0.4876049776773879,0.07067732070690023,-6.899030308456259,5.235870097894093e-12
+C(task)[T.keep informed of industry trends and deals.],1.1049370930933056,0.05484210660674097,20.147604850713215,2.8245314115278936e-90
+C(task)[T.listen to and resolve customers' complaints regarding products or services.],-0.26456316687753373,0.055216226981032075,-4.791402479716998,1.6561951539636747e-06
+"C(task)[T.locate and review research articles or environmental, historical, or technical reports.]",-0.006143512767831387,0.045092394609084624,-0.13624277045144267,0.8916293644454499
+"C(task)[T.maintain networks by performing activities such as file addition, deletion, or backup.]",0.5579806924475339,0.06254844367976248,8.920776595246739,4.630297901396804e-19
+"C(task)[T.manage client portfolios, keeping client plans up-to-date.]",0.3300550765348179,0.0641790651270305,5.142721787572557,2.7078647576517185e-07
+C(task)[T.manage user access to systems and equipment through account management and password administration.],0.07134573429893197,0.04350938893077448,1.6397778974199442,0.10105135541434648
+"C(task)[T.manipulate and enhance scanned or digital images to create desired effects, using computers and specialized software.]",-0.03705318998055236,0.04201688383530527,-0.8818643030689941,0.3778501930682898
+"C(task)[T.mark copy to indicate and correct errors in type, arrangement, grammar, punctuation, or spelling, using standard printers' marks.]",-0.8460422866973667,0.05832124693330826,-14.506587756342665,1.1006096191466608e-47
+C(task)[T.measure and analyze system performance and operating parameters to assess operating condition of systems or equipment.],-0.004831728981346199,0.05237595761782494,-0.09225089527913152,0.9264987018207878
+"C(task)[T.measure the effectiveness of marketing, advertising, and communications programs and strategies.]",0.5291703205145344,0.04812268696478854,10.996275434531103,3.982430243799648e-28
+C(task)[T.modify and customize commercial programs for internal needs.],0.38851153535349675,0.03954374432502298,9.824854524654855,8.80009953324718e-23
+C(task)[T.modify existing databases and database management systems or direct programmers and analysts to make changes.],0.7190494433575796,0.034159918102250934,21.049507238432124,2.3106960383702094e-98
+C(task)[T.modify existing programs to enhance efficiency.],0.2849838835093254,0.03140960207362118,9.073145302552696,1.1562993459332724e-19
+"C(task)[T.modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.]",0.8735293824503962,0.02718465481772499,32.133179115477894,1.5173787902203198e-226
+"C(task)[T.modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.]",0.8421003088777232,0.02743234616731669,30.697349170994865,6.174729820360784e-207
+C(task)[T.monitor and analyze sales promotion results to determine cost effectiveness of promotion campaigns.],0.24090565677573808,0.04018302448456215,5.995209665422054,2.0322307094785182e-09
+"C(task)[T.monitor changes affecting supply and demand, tracking market conditions, price trends, or futures markets.]",0.6709505782900764,0.07213652639168856,9.301121246772178,1.389723075892997e-20
+"C(task)[T.monitor database performance and perform any necessary maintenance, upgrades, or repairs.]",0.5195550608133523,0.03691864728265823,14.072971223336305,5.5679960833618836e-45
+C(task)[T.monitor financial market trends to ensure that client plans are responsive.],0.3796940693984388,0.06760262812578506,5.61655781624288,1.9479908807312932e-08
+C(task)[T.monitor financial or operational performance of individual investments to ensure portfolios meet risk goals.],0.6513068362803712,0.05467243786548074,11.912891791708367,1.0139855862842391e-32
+"C(task)[T.monitor fundamental economic, industrial, and corporate developments by analyzing information from financial publications and services, investment banking firms, government agencies, trade publications, company sources, or personal interviews.]",0.9385725165202115,0.07784457765627786,12.057005700056223,1.7814241905976192e-33
+C(task)[T.observe and evaluate students' work to determine progress and make suggestions for improvement.],-0.6887517727665387,0.04927173315794308,-13.978639041551661,2.1047440434589426e-44
+"C(task)[T.observe and evaluate students' work to determine progress, provide feedback, and make suggestions for improvement.]",-0.8658948293914088,0.035231879048290726,-24.57702662422763,2.224308970984473e-133
+C(task)[T.offer advice on the purchase or sale of particular securities.],0.23621080287790316,0.04749002257969012,4.973903781189663,6.561788736964054e-07
+"C(task)[T.organize information for publication and for other means of dissemination, such as use in cd-roms or internet sites.]",0.6377176205543118,0.032631170527984234,19.543203943830644,4.712895342721207e-85
+"C(task)[T.organize material and complete writing assignment according to set standards regarding order, clarity, conciseness, style, and terminology.]",-0.2987031000653415,0.033849807784762515,-8.82436621101886,1.1008144775112492e-18
+C(task)[T.participate in the work of subordinates to facilitate productivity or to overcome difficult aspects of work.],-0.4786052386449075,0.038540169904701806,-12.418347916689356,2.0780850667896268e-35
+"C(task)[T.perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.]",-0.1160232583319989,0.029267820260107758,-3.9641919794805975,7.36449690552846e-05
+"C(task)[T.perform or direct revision, repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements.]",0.47296173485750964,0.03170971370662071,14.915358089743945,2.618686340689571e-50
+"C(task)[T.perform or evaluate research, such as detailed company or industry analyses, to inform financial forecasting, decision making, or valuation.]",0.7872161588731501,0.06675604168509522,11.792433149146914,4.2702296887337837e-32
+C(task)[T.perform risk assessments and execute tests of data processing system to ensure functioning of data processing activities and security measures.],-0.09929182373792127,0.04449164841164236,-2.231695773985732,0.025635076751339324
+"C(task)[T.perform routine system administrative functions such as troubleshooting, back-ups, and upgrades.]",-0.058961693589048195,0.027411769892440336,-2.150962663863188,0.031479146749481775
+C(task)[T.perform security analyses of developed or packaged software components.],-0.1715454270313405,0.02946213278190923,-5.822573277406289,5.794837845916419e-09
+"C(task)[T.plan and prepare advertising and promotional material to increase sales of products or services, working with customers, company officials, sales departments, and advertising agencies.]",-0.1313794511184571,0.034359256029624315,-3.823698947532003,0.0001314644210026963
+C(task)[T.plan parties or other special events and services.],0.26473485214710646,0.03649372679333071,7.254256427312521,4.03874343877916e-13
+"C(task)[T.plan, coordinate and implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure.]",-0.2180385481652974,0.06329385524488244,-3.44486123213243,0.0005713526321437976
+"C(task)[T.plan, coordinate, and implement network security measures to protect data, software, and hardware.]",-0.0674145716078606,0.04876684288162873,-1.382385400086188,0.1668533965475536
+"C(task)[T.position text and art elements from a variety of databases in a visually appealing way to design print or web pages, using knowledge of type styles and size and layout patterns.]",0.14961143402625746,0.04909296064103338,3.047512964642994,0.0023074357228638604
+C(task)[T.prepare and deliver lectures to undergraduate or graduate students on topics such as how to speak and write a foreign language and the cultural aspects of areas where a particular language is used.],-0.5534436762063162,0.03081255996736613,-17.96162593411497,3.892371814377277e-72
+"C(task)[T.prepare and present summaries and analyses of survey data, including tables, graphs, and fact sheets that describe survey techniques and results.]",0.802633548139009,0.05332634772267815,15.05135045649624,3.382580578614127e-51
+C(task)[T.prepare appropriate formatting to data sets as requested.],0.8516343703729875,0.03418804162346879,24.910299915756884,5.75436656854482e-137
+"C(task)[T.prepare data analysis listings and activity, performance, or progress reports.]",0.5492298195522489,0.047857539309616684,11.476348919633745,1.734513956930437e-30
+"C(task)[T.prepare data for processing by organizing information, checking for any inaccuracies, and adjusting and weighting the raw data.]",1.060311297281277,0.03629121586124053,29.216747692757863,1.1883169730367988e-187
+"C(task)[T.prepare detailed workflow charts and diagrams that describe input, output, and logical operation, and convert them into a series of instructions coded in a computer language.]",-0.01060754822961256,0.044053167389400905,-0.24078968342613913,0.8097181258432856
+"C(task)[T.prepare invoices, reports, memos, letters, financial statements, and other documents, using word processing, spreadsheet, database, or presentation software.]",0.3368508112849291,0.051790941595402686,6.504048795182173,7.818651685940408e-11
+C(task)[T.prepare management reports defining and evaluating problems and recommending solutions.],-0.19128699229697405,0.042183772324882886,-4.534610864665127,5.770978339367781e-06
+"C(task)[T.prepare or edit organizational publications, such as employee newsletters or stockholders' reports, for internal or external audiences.]",-0.44768036567483793,0.03694039726504413,-12.11899164112314,8.378360658048968e-34
+"C(task)[T.prepare project status reports by collecting, analyzing, and summarizing information and trends.]",0.39967885953061827,0.05924230895961052,6.746510501525291,1.51443110932842e-11
+C(task)[T.prepare reports and document project activities and data.],0.6196553134427485,0.043326555939003496,14.30197485152337,2.1268722310303035e-46
+"C(task)[T.prepare reports of activities, evaluations, recommendations, or decisions.]",0.323433775791257,0.07605503527951872,4.252628042345491,2.1127634129710286e-05
+"C(task)[T.prepare reports of findings, illustrating data graphically and translating complex findings into written text.]",-0.13259984635661784,0.06733016379311352,-1.9693973530802558,0.04890747947546
+"C(task)[T.prepare reports or recommendations, based upon research outcomes.]",-0.07404721871581707,0.04436401551432146,-1.6690828784854554,0.09510095596283227
+"C(task)[T.prepare reports, manuscripts, and meeting presentations.]",-0.0195349277838704,0.048128812866832835,-0.405888419436428,0.6848245873700869
+"C(task)[T.prepare reports, manuscripts, proposals, and technical manuals for use by other scientists and requestors, such as sponsors and customers.]",0.489260421947001,0.03907229576389049,12.521926658815927,5.6643273394992864e-36
+C(task)[T.prepare responses to correspondence containing routine inquiries.],0.06460990086861904,0.04267011574850043,1.5141721491788933,0.1299821834457944
+C(task)[T.prepare sales presentations or proposals to explain product specifications or applications.],0.2985032218892188,0.04573852321524211,6.526297766206501,6.741523481367627e-11
+"C(task)[T.prepare tables, graphs, fact sheets, and written reports summarizing research results.]",0.3899153986451654,0.04659289971510142,8.368558321747642,5.832743365565153e-17
+C(task)[T.prepare technical reports and recommendations based upon research outcomes.],-0.23999541582374723,0.052411923881868626,-4.579023207861508,4.671523693821869e-06
+"C(task)[T.prepare technical reports, data summary documents, or research articles for scientific publication, regulatory submissions, or patent applications.]",0.15728083327532974,0.051977790337908794,3.025923808088868,0.002478747556468168
+"C(task)[T.prepare written and oral reports describing research results, using illustrations, maps, appendices, and other information.]",0.2469023475515465,0.0581349088970056,4.247058303453605,2.1659560956526026e-05
+"C(task)[T.prepare, administer, and grade tests and assignments to evaluate students' progress.]",0.3287154339839758,0.0505607498073594,6.501395553594608,7.957827930231135e-11
+"C(task)[T.prepare, analyze, and verify annual reports, financial statements, and other records, using accepted accounting and statistical procedures to assess financial condition and facilitate financial planning.]",0.4568413084900176,0.06575412416929832,6.947720987261271,3.7123427862663335e-12
+"C(task)[T.prepare, manipulate, and manage extensive databases.]",0.9629967106892956,0.04922252085869005,19.564148562279133,3.125807186866359e-85
+"C(task)[T.prepare, rewrite and edit copy to improve readability, or supervise others who do this work.]",-0.13611654779650653,0.028349229612670532,-4.801419638425377,1.5754473167892199e-06
+"C(task)[T.present investment information, such as product risks, fees, or fund performance statistics.]",-0.08089679278342338,0.0368251338840662,-2.1967820412576007,0.028036016260620654
+"C(task)[T.process and prepare documents, such as business or government forms and expense reports.]",1.087453765368063,0.04284592349611948,25.380565445544725,4.1338556578671604e-142
+C(task)[T.program computerized graphic effects.],0.3503742552771169,0.047502094349861926,7.375974892739341,1.6314676098142457e-13
+C(task)[T.program electronic equipment.],0.638624961029477,0.05684823821850744,11.233856686548416,2.7807019113437586e-29
+"C(task)[T.proofread, edit, and revise translated materials.]",-0.014128872624723426,0.037956763540951795,-0.3722359681557068,0.7097171683920648
+"C(task)[T.provide advice to clients on a contract basis, working as a consultant.]",-0.9078295337953952,0.038211650767699966,-23.757925019109013,9.099000876070673e-125
+C(task)[T.provide assistance to students in college writing centers.],-0.3579497251922428,0.03976202939893917,-9.002300199541441,2.2103719365338885e-19
+C(task)[T.provide customer service by greeting and assisting customers and responding to customer inquiries and complaints.],-0.6482606303320314,0.05323501478496522,-12.177335405100985,4.104742364874469e-34
+"C(task)[T.provide customer support and education, working with users to identify needs, determine sources of problems, or to provide information on product use.]",-0.35553871495855605,0.05707764387254462,-6.2290362887522175,4.693130844591768e-10
+C(task)[T.provide feedback and recommendations to developers on software usability and functionality.],-0.8563763297707863,0.03026474707926728,-28.296166742376077,3.8523657499370956e-176
+"C(task)[T.provide information and advice to the public regarding the selection, purchase, and care of products.]",0.035044241813000906,0.032016925576155986,1.0945536206980304,0.27371224387612136
+"C(task)[T.provide occupational, educational, and other information to individuals so that they can make educational and vocational plans.]",-0.6685413948816011,0.03426654151314275,-19.51003414293169,9.022183778554739e-85
+"C(task)[T.provide private instruction to individual or small groups of students to improve academic performance, improve occupational skills, or prepare for academic or occupational tests.]",-0.8595236469850047,0.029553226447887222,-29.083919094270417,5.734478739707709e-186
+C(task)[T.provide professional consulting services to government or industry.],-0.673961827588794,0.03736280962586973,-18.03830692438472,9.748509152882594e-73
+"C(task)[T.provide professional consulting services to government, educational institutions, or industry.]",-0.6634838111125148,0.03967411019764912,-16.723344463358107,8.860424222940785e-63
+"C(task)[T.provide statistical and computational tools for biologically based activities such as genetic analysis, measurement of gene expression, and gene function determination.]",0.16818672541125224,0.06554479457982597,2.5659814252132604,0.010288433752396733
+"C(task)[T.provide technical and non-technical support and services to clients or other staff members regarding the use, operation, and maintenance of equipment.]",0.169673566228231,0.05918944572028912,2.866618603425607,0.004148826690507451
+C(task)[T.provide technical customer service.],-0.02261351876154391,0.05424333221518299,-0.41689029486308493,0.6767586526150206
+C(task)[T.provide technical guidance or support for the development or troubleshooting of systems.],-1.2090296895558836,0.039460350544452565,-30.639101601337703,3.691839683830583e-206
+"C(task)[T.read from sacred texts such as the bible, torah, or koran.]",-0.24499246073784436,0.034996058625660825,-7.000572931895933,2.54917890431152e-12
+"C(task)[T.read manuals, periodicals, and technical reports to learn how to develop programs that meet staff and user requirements.]",-1.1141890574544218,0.029362695158562914,-37.94573527524076,0.0
+"C(task)[T.read written materials, such as legal documents, scientific works, or news reports, and rewrite material into specified languages.]",0.9082906382740951,0.031633890126542066,28.71258117925888,2.6575556385095605e-181
+"C(task)[T.read, evaluate and edit manuscripts or other materials submitted for publication and confer with authors regarding changes in content, style or organization, or publication.]",-0.6981944147541693,0.03395412163733041,-20.562876643127435,5.902765322463675e-94
+C(task)[T.recommend and provide advice on a wide variety of products and services.],0.11795986510939102,0.04491390332104122,2.626355234953033,0.008630469498872317
+"C(task)[T.recommend financial products, such as stocks, bonds, mutual funds, or insurance.]",0.0636539734479161,0.039184973458201384,1.6244485533674227,0.10428011182468362
+"C(task)[T.recommend investments and investment timing to companies, investment firm staff, or the public.]",0.7520869058377606,0.0708301057311568,10.618181323805818,2.4529344927474696e-26
+"C(task)[T.recommend, select, and help locate or obtain merchandise based on customer needs and desires.]",0.6272997583939746,0.03923115876828915,15.989835072142347,1.5042872928945192e-57
+C(task)[T.record symbols on computer storage media and use computer aided transcription to translate and display them as text.],1.8476973671039023,0.10009494869398036,18.459446667512218,4.378036597687103e-76
+"C(task)[T.record the exact locations and conditions of artifacts uncovered in diggings or surveys, using drawings and photographs as necessary.]",0.7917643721395422,0.0564910406224908,14.015751230900793,1.2486991203904234e-44
+"C(task)[T.reformat documents, moving paragraphs or columns.]",0.4412689401704724,0.030463954890847373,14.484952520168278,1.5082684600754417e-47
+C(task)[T.reinstall software programs or adjust settings on existing software to fix machine malfunctions.],1.161400301523728,0.03804421556143891,30.527644857025447,1.119984143423577e-204
+"C(task)[T.report results of statistical analyses, including information in the form of graphs, charts, and tables.]",0.14638642839810834,0.058054839873154906,2.5215198029647614,0.011684909820642625
+C(task)[T.research and identify potential customers for products or services.],1.461298408818856,0.041830645012578035,34.933680998212175,2.291313518294071e-267
+"C(task)[T.research or develop analytical tools to address issues such as portfolio construction or optimization, performance measurement, attribution, profit and loss measurement, or pricing models.]",0.027322810401118898,0.0467145175334999,0.5848890632665782,0.5586223128965718
+"C(task)[T.research, compile, analyze and organize information from maps, reports, investigations, and books for use in reports and special projects.]",0.2693371296018724,0.035124270449203354,7.668120252956917,1.745352194842941e-14
+C(task)[T.respond to customer inquiries or complaints.],0.08389969754347411,0.03337720037312105,2.513682891481793,0.011947781007595647
+C(task)[T.respond to general inquiries or requests from the public.],0.04568467865837444,0.04770475246148192,0.9576546633432688,0.3382369250708851
+C(task)[T.respond to program error messages by finding and correcting problems or terminating the program.],0.041064058939398636,0.035359762030454496,1.1613216996209186,0.24551109811046146
+C(task)[T.retrieve information from central databases for storage in a library's computer.],0.6713465288175458,0.05363241766741948,12.51755110091511,5.985346064658696e-36
+"C(task)[T.retrieve, separate and sort program output as needed, and send data to specified users.]",0.821397237384501,0.060049606135693614,13.6786448778431,1.362074453786374e-42
+"C(task)[T.review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes.]",-0.2857590444612213,0.028882132302142104,-9.893973252107406,4.421238087770815e-23
+"C(task)[T.review and analyze new, proposed, or revised laws, regulations, policies, and procedures to interpret their meaning and determine their impact.]",-0.2987356290947326,0.05092991336510038,-5.865622172831745,4.474516528887854e-09
+"C(task)[T.review and edit transcribed reports or dictated material for spelling, grammar, clarity, consistency, and proper medical terminology.]",-0.14388396982334647,0.06983307807709385,-2.0603985072017363,0.03936045950318855
+"C(task)[T.review class material with students by discussing text, working solutions to problems, or reviewing worksheets or other assignments.]",-0.4054830613585435,0.029060626964416497,-13.95300458778953,3.0162587418258816e-44
+"C(task)[T.review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement.]",0.3418619972053488,0.05917840028873575,5.776803623237179,7.613305532239573e-09
+"C(task)[T.review instructional content, methods, and student evaluations to assess strengths and weaknesses, and to develop recommendations for course revision, development, or elimination.]",-0.924237625657894,0.04731250229902664,-19.534744110900856,5.562399782182181e-85
+"C(task)[T.review papers or serve on editorial boards for scientific journals, and review grant proposals for federal agencies.]",-0.9920528569400865,0.051645575927397276,-19.20886424685635,3.1201764193790796e-82
+"C(task)[T.review software documentation to ensure technical accuracy, compliance, or completeness, or to mitigate risks.]",-0.3012953174983789,0.02808181375424435,-10.729197199836866,7.423831278024533e-27
+"C(task)[T.review written, audio, or video copy and correct errors in content, grammar, or punctuation, following prescribed editorial style and formatting guidelines.]",-0.018009337468792644,0.05705567359973101,-0.315644989052895,0.7522719857534916
+"C(task)[T.review, classify, and record survey data in preparation for computer analysis.]",1.101979830258499,0.03131828892034775,35.18646350894776,3.221007481856229e-271
+"C(task)[T.revise programs or tapes to eliminate errors, and retest programs to check that problems have been solved.]",0.6675749876907316,0.03356893132286906,19.88669169327835,5.306221759054424e-88
+"C(task)[T.search electronic sources, such as databases or repositories, or manual sources for information.]",0.2636270976221097,0.032556721717887205,8.097470620860102,5.61136496074064e-16
+"C(task)[T.search standard reference materials, including online sources and the internet, to answer patrons' reference questions.]",-0.16776822149744133,0.03723088574073218,-4.506157137000255,6.601221060302221e-06
+C(task)[T.seek and provide information to help companies determine their position in the marketplace.],1.1280941919162333,0.044012678021577246,25.631119091712264,6.866060836162242e-145
+"C(task)[T.select and edit documents for publication and display, applying knowledge of subject, literary expression, and presentation techniques.]",0.41523328033441265,0.035043076106786676,11.849224624832402,2.1719108639767061e-32
+"C(task)[T.share information about religious issues by writing articles, giving speeches, or teaching.]",-0.5964282109036079,0.048172950176176274,-12.380977472261371,3.312832544982497e-35
+"C(task)[T.store, retrieve, and manipulate data for analysis of system capabilities and requirements.]",0.7056278264350204,0.031345087775546746,22.51159197536215,3.195867026691429e-112
+C(task)[T.study documentation or other information for new scientific or technical products.],-0.170084635660743,0.04217952686603791,-4.032397902445219,5.5210603411057836e-05
+"C(task)[T.study the objectives, promotional policies, or needs of organizations to develop public relations strategies that will influence public opinion or promote ideas, products, or services.]",0.64156979645651,0.052043463238608915,12.327576923830765,6.435286267330084e-35
+C(task)[T.study the structure and composition of food or the changes foods undergo in storage and processing.],-0.18414396546375134,0.05643503566273493,-3.2629369912021673,0.0011026403208284513
+"C(task)[T.take dictation using shorthand, a stenotype machine, or headsets and transcribing machines.]",1.5556978117311764,0.08057014980902358,19.308612624137677,4.546214443113617e-83
+"C(task)[T.test machines, components, materials, or products to determine characteristics such as performance, strength, or response to stress.]",-0.3100364800178007,0.039026123685024165,-7.944331917770601,1.9524016434514606e-15
+"C(task)[T.test programs or databases, correct errors, and make necessary modifications.]",0.2599788106493505,0.028283335943181092,9.19194295791793,3.8580865491746206e-20
+"C(task)[T.test, maintain, and monitor computer programs and systems, including coordinating the installation of computer programs and systems.]",-0.23122577306027844,0.03672317445435338,-6.296453846812462,3.045318963661848e-10
+C(task)[T.transcribe recorded proceedings in accordance with established formats.],1.323677137141751,0.07198916481527284,18.387171743669494,1.6643901376530086e-75
+"C(task)[T.translate data into numbers, equations, flow charts, graphs, or other forms.]",0.8581087000393766,0.07468365993425528,11.489912261862603,1.4826243417631783e-30
+C(task)[T.troubleshoot network or connectivity problems for users or user groups.],0.4580092646050355,0.03503368188995867,13.07339793869367,4.673056125536329e-39
+"C(task)[T.troubleshoot problems involving office equipment, such as computer hardware and software.]",0.4671575167296409,0.02885302127323399,16.190939323328603,5.842976345895298e-59
+C(task)[T.tutor and assist children individually or in small groups to help them master assignments and to reinforce learning concepts presented by teachers.],-0.5756495170884178,0.04360726997405542,-13.200769445803562,8.684343557582385e-40
+"C(task)[T.type, file, and duplicate materials.]",1.1863797057530607,0.06778100541139902,17.50312935832525,1.3560942555140196e-68
+"C(task)[T.use computer skills and software to manage web sites or databases, publish newsletters, or provide webinars.]",0.6462866734458567,0.046170173400480005,13.997926060185375,1.6048600337673104e-44
+C(task)[T.use computer software to generate new images.],0.44125342290295394,0.03702579289930891,11.917460460683072,9.599001433278161e-33
+"C(task)[T.use computers for various applications, such as database management or word processing.]",0.1603106193881588,0.030094714120959345,5.3268696537147395,9.991981399191156e-08
+"C(task)[T.use data entry devices, such as optical scanners, to input data into computers for revision or editing.]",1.5053685070178835,0.07095138248598666,21.216901690607692,6.667546259366349e-100
+C(task)[T.use models to simulate the behavior of animated objects in the finished sequence.],0.4524507700988139,0.03568916708694989,12.677537948602255,7.876731569386348e-37
+C(task)[T.use nondisciplinary tools and equipment such as a computer.],-0.7716063146918941,0.03307116904759686,-23.331691528091397,2.114596058792293e-120
+"C(task)[T.use the computer in the analysis and solution of business problems, such as development of integrated production and inventory control and cost analysis systems.]",0.003115680705385683,0.044111796898574335,0.07063146197715604,0.9436910698997755
+"C(task)[T.write advertising copy for use by publication, broadcast, or internet media to promote the sale of goods and services.]",-0.17033753970005433,0.030108489872656408,-5.6574587573304225,1.5363071797924015e-08
+C(task)[T.write and edit news stories from information collected by reporters and other sources.],0.9808937137580335,0.07338857824449364,13.365754416037213,9.585817111643876e-41
+"C(task)[T.write articles, bulletins, sales letters, speeches, and other related informative, marketing and promotional material.]",-0.008032572128750774,0.048045810399671825,-0.16718569344405607,0.8672239409648368
+C(task)[T.write computer or microprocessor software programs.],0.5818030782150264,0.05592842378933216,10.402636777437666,2.411657258289468e-25
+C(task)[T.write computer programs or scripts to be used in querying databases.],0.6474483214579763,0.03557931965926214,18.197321580583683,5.4193580979803825e-74
+C(task)[T.write detailed analysis plans and descriptions of analyses and findings for research protocols or reports.],-0.019032425457342194,0.062253732942215756,-0.30572344111489974,0.7598152238999605
+"C(task)[T.write humorous material for publication, or for performances such as comedy routines, gags, and comedy shows.]",0.1529225877326289,0.046578419359462414,3.2831210211851607,0.0010266458148508444
+"C(task)[T.write interesting and effective press releases, prepare information for media kits, and develop and maintain company internet or intranet web pages.]",-0.5972547452792392,0.042847370775361986,-13.939122388874125,3.6641804748488566e-44
+"C(task)[T.write narrative, dramatic, lyric, or other types of poetry for publication.]",-0.14843181864556867,0.036140960951112466,-4.1070246816721605,4.0078841677916746e-05
+"C(task)[T.write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.]",0.7688113852230773,0.027360388095275034,28.09943274729521,9.953682322023004e-174
+"C(task)[T.write original or adapted material for dramas, comedies, puppet shows, narration, or other performances.]",0.15240641974078634,0.029670300098531093,5.136665933093532,2.796554313315614e-07
+C(task)[T.write program code to analyze data using statistical analysis software.],-0.045916159366741094,0.051869524711050746,-0.885224216387676,0.37603571385746126
+C(task)[T.write reports on research findings and implications to contribute to general knowledge and to suggest potential changes in organizational functioning.],-0.13770719419768518,0.05249049698413203,-2.6234690488702044,0.00870393530170683
+C(task)[T.write research reports and other publications to document and communicate research findings.],-0.2404257678121563,0.0501017053654006,-4.798754175305783,1.5965560403572095e-06
+"C(task)[T.write reviews of literary, musical, or other artwork, based on knowledge, judgment, or experience.]",-0.5830026326986864,0.04227520631675802,-13.790651388674178,2.901283219842602e-43
+C(task)[T.write supporting code for web applications or web sites.],0.6475179606221002,0.030218373746800385,21.42795525820318,7.333055654119727e-102
+"C(task)[T.write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.]",-0.2950438513446465,0.029326941875183487,-10.060505203725764,8.257351192472309e-24
+"C(task)[T.write, design, or edit web page content, or direct others producing content.]",0.33311688155333163,0.03165528672552485,10.523262178659305,6.749540695379049e-26
+"C(task)[T.write, present, and publish reports that record site history, methodology, and artifact analysis results, along with recommendations for conserving and interpreting findings.]",0.21355263286777842,0.03464528629580534,6.163973680126124,7.094173962476043e-10
+"C(task)[T.write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.]",0.5910601627536056,0.028217597615306914,20.94650901226897,2.019004245307993e-97
+C(platform)[T.API]:C(period)[T.Nov 2025],0.006546732698652434,0.005594213991603542,1.1702685504127202,0.24189291385998424
+C(platform)[T.API]:C(period)[T.Feb 2026],-0.29295234861158487,0.005512980797649254,-53.13864846699636,0.0
