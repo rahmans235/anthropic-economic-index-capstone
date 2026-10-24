@@ -17,6 +17,10 @@ https://huggingface.co/datasets/Anthropic/EconomicIndex
 
 **How has the difference in automation-oriented AI usage between the API and Claude.ai changed over time when comparing the same types of tasks?**
 
+## Hypothesis
+
+**We hypothesize that the difference in automation-oriented AI usage between API and Claude.ai will decrease over time when comparing the same tasks.**
+
 ## Research Paper
 
 Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations
