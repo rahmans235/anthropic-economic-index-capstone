@@ -1,0 +1,353 @@
+task,matched,occupation_count,onet_task_id_count
+"address the relationships of quantities, magnitudes, and forms through the use of numbers and symbols.",True,1,1
+"administer, proctor, or score academic or diagnostic assessments.",True,1,1
+"advise clients on market conditions, prices, mortgages, legal requirements and related matters.",False,0,0
+"analyze and evaluate security operations to identify risks or opportunities for improvement through auditing, review, or assessment.",True,1,1
+"analyze and record test data to issue reports that use charts, graphs, or narratives.",True,1,1
+analyze and report computer network security breaches or attempted breaches.,True,1,1
+"analyze business operations, trends, costs, revenues, financial commitments, and obligations to project future revenues and expenses or to provide advice.",True,1,1
+analyze characteristics of animals to identify and classify them.,True,1,1
+analyze experimental data and interpret results to write reports and summaries of findings.,True,1,1
+analyze financial information obtained from clients to determine strategies for meeting clients' financial objectives.,True,1,1
+analyze information obtained from management to conceptualize and define operational problems.,True,1,1
+"analyze information processing or computation needs and plan and design computer systems, using techniques such as structured analysis, data modeling and information engineering.",False,0,0
+"analyze information to determine, recommend, and plan computer specifications and layouts, and peripheral equipment modifications.",False,0,0
+"analyze information to determine, recommend, and plan layout, including type of computers and peripheral equipment modifications.",True,1,1
+analyze market conditions to determine optimum times to execute securities transactions.,False,0,0
+"analyze operations to evaluate performance of a company or its staff in meeting objectives or to determine areas of potential cost reduction, program improvement, or policy change.",True,1,1
+"analyze organic or inorganic compounds to determine chemical or physical properties, composition, structure, relationships, or reactions, using chromatography, spectroscopy, or spectrophotometry techniques.",True,1,1
+"analyze organizational, occupational, and industrial data to facilitate organizational functions and provide technical information to business, industry, and government.",True,1,1
+"analyze records, reports, test results, or examination information to diagnose medical condition of patient.",True,2,2
+"analyze research data to determine its significance, using computers.",True,1,1
+analyze system performance or operational requirements.,True,1,1
+analyze target companies or investment opportunities to inform investment decisions.,False,0,0
+"analyze test data, making computations as necessary, to determine test results.",True,1,1
+analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,True,1,1
+"analyze, interpret, or create graphical representations of energy data, using engineering software.",True,1,1
+"analyze, interpret, or disseminate system performance data.",True,1,1
+answer customers' questions about merchandise and advise customers on merchandise selection.,True,1,1
+"answer customers' questions about products, prices, availability, or credit terms.",True,1,1
+"answer customers' questions about products, prices, availability, product uses, and credit terms.",True,1,1
+"answer customers' questions, and provide information on procedures or policies.",True,1,1
+"answer inquiries from current or prospective customers regarding methods, materials, or price ranges.",True,1,1
+"answer inquiries regarding information such as schedules, accommodations, procedures, and policies.",False,0,0
+answer questions about product features and benefits.,True,1,1
+"answer telephones and give information to callers, take messages, or transfer calls to appropriate individuals.",True,1,1
+assess risks to mitigate potential consequences of incidents and develop a plan to respond to incidents.,True,1,1
+assess the usefulness of pre-developed application packages and adapt them to a user environment.,True,1,1
+assist customers by providing information and resolving their complaints.,True,1,1
+assist students who need extra help with their coursework outside of class.,True,2,2
+"break systems into their component parts, assign numerical values to each component, and examine the mathematical relationships between them.",False,0,0
+"classify, record, and summarize numerical and financial data to compile and keep financial records, using journals and ledgers or computers.",True,1,1
+"code, evaluate, or interpret collected study data.",True,1,1
+collaborate with management or users to develop e-commerce strategies and to integrate these strategies with web sites.,True,2,2
+collaborate with search engine shopping specialists to place marketing content in desired online locations.,True,1,1
+"collaborate with system architects, software architects, design analysts, and others to understand business or industry requirements.",True,1,1
+"collaborate with web, multimedia, or art design staffs to create multimedia web sites or other internet content that conforms to brand and company visual format.",True,1,1
+"collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential markets and factors affecting product demand.",True,1,1
+"collect and analyze data to evaluate the effectiveness of academic programs and other services, such as behavioral management systems.",True,1,1
+"collect business intelligence data from available industry reports, public information, field reports, or purchased sources.",True,1,1
+compile and analyze data obtained from monitoring or diagnostic tests.,True,1,1
+compile and format image data to increase its usefulness.,True,1,1
+"compile and study occupational, educational, and economic information to assist counselees in determining and carrying out vocational and educational objectives.",True,1,1
+"compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",True,1,1
+"compile reports, charts, or graphs that describe and interpret findings of analyses.",True,1,1
+"compile statistical, financial, accounting, or auditing reports and tables pertaining to such matters as cash receipts, expenditures, accounts payable and receivable, and profits and losses.",True,1,1
+"compile, analyze, and report data to explain economic phenomena and forecast market trends, applying mathematical models and statistical techniques.",True,1,1
+"compile, record, and code results or data from interview or survey, using computer or specified form.",True,1,1
+"compile, sort and verify the accuracy of data before it is entered.",False,0,0
+complete form letters in response to requests or problems identified by correspondence.,True,1,1
+"complete models and simulations, using manual or automated tools, to analyze or predict system performance under different operating conditions.",True,1,1
+"compose descriptions of merchandise for posting to online storefront, auction sites, or other shopping web sites.",True,1,1
+"compose images of products, using video or still cameras, lighting equipment, props, or photo or video editing software.",True,1,1
+"compute dimensions, areas, volumes, and weights.",True,1,1
+"conduct classes, workshops, and demonstrations to teach principles, techniques, or methods in subjects, such as basic english language skills, life skills, and workforce entry skills.",True,1,1
+"conduct classes, workshops, and demonstrations, and provide individual instruction to teach topics and skills such as cooking, dancing, writing, physical fitness, photography, personal finance, and flying.",False,0,0
+conduct internet-based and library research.,True,1,1
+"conduct logical analyses of business, scientific, engineering, and other technical problems, formulating mathematical models of problems for solution by computers.",True,1,1
+conduct materials test and analysis using tools and equipment and applying engineering knowledge.,False,0,0
+"conduct reference searches, using printed materials and in-house and online databases.",True,1,1
+"conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",True,29,29
+"conduct research to extend mathematical knowledge in traditional areas, such as algebra, geometry, probability, and logic.",True,1,1
+conduct research to gather information about survey topics.,True,1,1
+"conduct research, compile data, and prepare papers for consideration and presentation by executives, committees, and boards of directors.",True,1,1
+"conduct searches to find needed information, using such sources as the internet.",True,1,1
+confer with clients regarding the nature of the information processing or computation needs a computer program is to address.,True,1,1
+configure security settings or access permissions for groups or individuals.,True,1,1
+configure servers to meet functional specifications.,True,1,1
+consult with and assist computer operators or system analysts to define and resolve problems in running computer programs.,True,1,1
+consult with multiple stakeholders to define requirements and implement online features.,True,1,1
+"consult with users, management, vendors, and technicians to assess computing needs and system requirements.",True,1,1
+"contact prospective customers to determine customer needs, present information, or explain available services.",False,0,0
+"contribute to the compilation, organization, and production of protocols, clinical study reports, regulatory submissions, or other controlled documentation.",True,1,1
+coordinate implementation of computer system plan with establishment personnel and outside vendors.,True,1,1
+"coordinate with developers to optimize web site architecture, server configuration, or page construction for search engine consumption and optimal visibility.",True,1,1
+correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,True,1,1
+"create business intelligence tools or systems, including design of related databases, spreadsheets, or outputs.",True,1,1
+create content strategies for digital media.,True,1,1
+create custom illustrations or other graphic elements.,True,1,1
+"create finished art work as decoration, or to elucidate or substitute for spoken or written messages.",True,1,1
+"create supporting documentation, such as metadata and diagrams of entity relationships, business processes, and process flow.",True,1,1
+"create, analyze, report, convert, or transfer data, using specialized applications program software.",True,1,1
+"create, maintain, and enter information into databases.",True,1,1
+debug robotics programs.,True,1,1
+define the goals of the system and devise flow charts and diagrams describing logical operational steps of programs.,True,1,1
+"demonstrate database technical functionality, such as performance, security and reliability.",True,1,1
+design and create special programs for tasks such as statistical analysis and data entry and cleaning.,True,1,1
+design and implement warehouse database structures.,True,1,1
+"design database applications, such as interfaces, data transfer mechanisms, global temporary tables, data partitions, and function-based indexes to enable efficient access of the generic database structure.",True,1,1
+"design databases to support business applications, ensuring system scalability, security, performance and reliability.",False,0,0
+"design information storage and retrieval systems and develop procedures for collecting, organizing, interpreting, and classifying information.",False,0,0
+design or develop automated testing tools.,True,1,1
+"design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",True,2,2
+"design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcome and consequences of design.",False,0,0
+"design, develop, select, test, implement, and evaluate new or modified informatics solutions, data structures, and decision-support mechanisms to support patients, health care professionals, and their information management and human-computer and human-technology interactions within health care contexts.",True,1,1
+"determine existence and amount of liability according to current laws, administrative and judicial precedents, and available evidence.",True,1,1
+"determine sources of web page or server problems, and take action to correct such problems.",True,1,1
+"determine supplementary virtual features, such as currency, item catalog, menu design, and audio direction.",True,1,1
+"develop and direct software system testing and validation procedures, programming, and documentation.",False,0,0
+develop and document database architectures.,True,1,1
+develop and document style guidelines for web site content.,True,1,1
+"develop and implement data extraction procedures from other systems, such as administration, billing, or claims.",True,1,1
+develop and maintain computer databases.,True,1,1
+"develop and maintain the company's corporate image and identity, which includes the use of logos and signage.",True,1,1
+develop application-specific software.,True,1,1
+"develop briefings, brochures, multimedia presentations, web pages, promotional products, technical illustrations, and computer artwork for use in products, technical manuals, literature, newsletters, and slide shows.",True,1,1
+"develop data model describing data elements and how they are used, following procedures and using pen, template or computer software.",False,0,0
+"develop data models for applications, metadata tables, views or related database structures.",True,1,1
+"develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements.",True,1,1
+"develop factors such as themes, plots, characterizations, psychological analyses, historical environments, action, and dialogue, to create material.",False,0,0
+develop instructional materials and products for technology-based redesign of courses.,False,0,0
+develop instructional materials to be used by educators and instructors.,False,0,0
+"develop instructional materials, such as lesson plans, handouts, or examinations.",True,1,1
+develop mathematical or statistical models of phenomena to be used for analysis or for computational simulation.,True,1,1
+develop new software applications or customize existing applications to meet specific scientific project needs.,True,1,1
+develop or analyze information to assess the current or future financial status of firms.,True,1,1
+develop or apply data mining and machine learning algorithms.,True,1,1
+"develop or configure document management system features, such as user interfaces, access profiles, and document workflow procedures.",True,1,1
+develop or direct software system testing or validation procedures.,False,0,0
+develop or document style guidelines for web site content.,True,1,1
+"develop or implement policies or practices to ensure the privacy, confidentiality, or security of patient information.",True,1,1
+develop or implement procedures for ongoing web site revision.,True,3,3
+develop or maintain internal or external company web sites.,True,1,1
+"develop or manage integrated security controls to ensure confidentiality, accountability, recoverability, or audit ability of sensitive information, proprietary information, or information technology resources.",False,0,0
+develop specialized computer software routines to customize and integrate image analysis.,True,1,1
+develop standards and guidelines to guide the use and acquisition of software and to protect vulnerable information.,False,0,0
+"develop teaching aids such as instructional software, multimedia visual aids, or study materials.",False,0,0
+"develop teaching materials, such as syllabi, visual aids, answer keys, supplementary notes, or course web sites.",True,1,1
+"develop teaching or training materials, such as handouts, study materials, or quizzes.",True,1,1
+"develop transactional web applications, using web programming software and knowledge of programming languages, such as hypertext markup language (html) and extensible markup language (xml).",True,1,1
+"develop web site maps, application models, image templates, or page templates that meet project goals, user needs, or industry standards.",True,1,1
+"develop, copy, or adapt designs for garments, and design patterns to fit measurements, applying knowledge of garment design, construction, styling, and fabric.",True,1,1
+"develop, implement, modify, and document recordkeeping and accounting systems, making use of current computer technology.",True,1,1
+"devise trading, option, or hedge strategies.",True,1,1
+"diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.",True,1,1
+direct software programming and development of documentation.,False,0,0
+discuss the treatment of problems with clients.,False,0,0
+"document all database changes, modifications, or problems.",True,1,1
+"document and communicate database schemas, using accepted notations.",True,1,1
+"document findings of study and prepare recommendations for implementation of new systems, procedures, or organizational changes.",True,1,1
+"document software defects, using a bug tracking system, and report defects to software developers.",True,1,1
+"edit instructional materials, such as books, simulation exercises, lesson plans, instructor guides, and tests.",True,1,1
+"edit or rewrite existing copy as necessary, and submit copy for approval by supervisor.",False,0,0
+"edit, standardize, or make changes to material prepared by other writers or establishment personnel.",True,1,1
+"encourage clients to express their feelings and discuss what is happening in their lives, helping them to develop insight into themselves or their relationships.",True,1,1
+encourage individuals and family members to develop and use skills and strategies for confronting their problems in a constructive manner.,True,1,1
+"evaluate and grade students' class work, assignments, and papers.",True,21,21
+"evaluate code to ensure that it is valid, is properly structured, meets industry standards, and is compatible with browsers, devices, or operating systems.",True,1,1
+"evaluate curricula, teaching methods, and programs to determine their effectiveness, efficiency, and utilization, and to ensure that school activities comply with federal, state, and local regulations.",False,0,0
+evaluate or recommend server hardware or software.,True,2,2
+evaluate or recommend software for testing or bug tracking.,True,1,1
+evaluate sources of information to determine any limitations in terms of reliability or usability.,False,0,0
+"examine physiological, morphological, and cultural characteristics, using microscope, to identify and classify microorganisms in human, water, and food specimens.",True,1,1
+"explain products or services and prices, and answer questions from customers.",True,1,1
+"extend existing software programs, web-based interactive tools, or database queries as sequence management and analysis needs evolve.",True,1,1
+"file and store completed documents on computer hard drive or disk, or maintain a computer filing system to store, retrieve, update and delete documents.",False,0,0
+"formulate, direct, or coordinate marketing activities or policies to promote products or services, working with advertising or promotion managers.",True,1,1
+gather and organize information to plan advertising campaigns.,False,0,0
+"gather data on competitors and analyze their prices, sales, and method of marketing and distribution.",True,1,1
+"generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, clients, and other stakeholders.",True,1,1
+greet customers and ascertain what each customer wants or needs.,True,1,1
+greet customers and ask about the quality of service they are receiving.,True,1,1
+greet customers entering establishments.,True,1,1
+greet visitors or callers and handle their inquiries or direct them to the appropriate persons according to their needs.,True,1,1
+help programmers and systems analysts test and debug new programs.,False,0,0
+identify and report problems in obtaining valid data.,True,1,1
+identify methods for interfacing web application technologies with enterprise resource planning or other system software.,True,1,1
+identify potential for loss and develop strategies to eliminate it.,True,1,1
+"identify relationships and trends in data, as well as any factors that could affect the results of research.",True,1,1
+"identify, evaluate and recommend hardware or software technologies to achieve desired database performance.",True,2,2
+"identify, investigate, or resolve security breaches.",True,1,1
+"inform investment decisions by analyzing financial information to forecast business, industry, or economic conditions.",True,1,1
+"inform other traders, managers, or customers of market conditions, including volume, price, competition, or dynamics.",True,1,1
+"install and configure new equipment, including operating software or peripheral equipment.",True,1,1
+"install updated software, and programs that maintain existing software or provide requested features such as time-correlated call routing.",False,0,0
+"instruct individuals in career development techniques such as job search and application strategies, resume writing, and interview skills.",False,0,0
+"instruct students in the knowledge and skills required in a specific occupation or occupational field, using a systematic plan of lectures, discussions, audio-visual presentations, and laboratory, shop and field studies.",False,0,0
+"instruct through lectures, discussions, and demonstrations in one or more subjects, such as english, mathematics, or social studies.",True,4,4
+"interact with clients to assist them in gaining insight, defining goals, and planning action to achieve effective personal, social, educational, and vocational development and adjustment.",False,0,0
+"interpret and analyze policies, public issues, legislation, or the operations of governments, businesses, and organizations.",True,1,1
+"interpret data on price, yield, stability, future investment-risk trends, economic influences, and other factors affecting investment programs.",True,2,2
+interpret government regulations and applicable codes to ensure compliance.,True,1,1
+interpret results of financial analysis procedures.,True,1,1
+keep informed of industry trends and deals.,True,1,1
+listen to and resolve customers' complaints regarding products or services.,True,1,1
+"locate and review research articles or environmental, historical, or technical reports.",True,1,1
+"maintain networks by performing activities such as file addition, deletion, or backup.",True,1,1
+"manage client portfolios, keeping client plans up-to-date.",True,1,1
+manage user access to systems and equipment through account management and password administration.,True,1,1
+"manipulate and enhance scanned or digital images to create desired effects, using computers and specialized software.",True,1,1
+"mark copy to indicate and correct errors in type, arrangement, grammar, punctuation, or spelling, using standard printers' marks.",True,1,1
+measure and analyze system performance and operating parameters to assess operating condition of systems or equipment.,True,1,1
+"measure the effectiveness of marketing, advertising, and communications programs and strategies.",True,1,1
+modify and customize commercial programs for internal needs.,True,1,1
+modify existing databases and database management systems or direct programmers and analysts to make changes.,True,1,1
+modify existing programs to enhance efficiency.,True,1,1
+"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",True,1,1
+"modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.",False,0,0
+monitor and analyze sales promotion results to determine cost effectiveness of promotion campaigns.,True,1,1
+"monitor changes affecting supply and demand, tracking market conditions, price trends, or futures markets.",True,1,1
+"monitor database performance and perform any necessary maintenance, upgrades, or repairs.",True,1,1
+monitor financial market trends to ensure that client plans are responsive.,True,1,1
+monitor financial or operational performance of individual investments to ensure portfolios meet risk goals.,True,1,1
+"monitor fundamental economic, industrial, and corporate developments by analyzing information from financial publications and services, investment banking firms, government agencies, trade publications, company sources, or personal interviews.",True,1,1
+observe and evaluate students' work to determine progress and make suggestions for improvement.,True,1,1
+"observe and evaluate students' work to determine progress, provide feedback, and make suggestions for improvement.",True,1,1
+offer advice on the purchase or sale of particular securities.,True,1,1
+"organize information for publication and for other means of dissemination, such as use in cd-roms or internet sites.",False,0,0
+"organize material and complete writing assignment according to set standards regarding order, clarity, conciseness, style, and terminology.",True,1,1
+participate in the work of subordinates to facilitate productivity or to overcome difficult aspects of work.,True,1,1
+"perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.",True,1,1
+"perform or direct revision, repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements.",True,1,1
+"perform or evaluate research, such as detailed company or industry analyses, to inform financial forecasting, decision making, or valuation.",True,1,1
+perform risk assessments and execute tests of data processing system to ensure functioning of data processing activities and security measures.,True,1,1
+"perform routine system administrative functions such as troubleshooting, back-ups, and upgrades.",False,0,0
+perform security analyses of developed or packaged software components.,True,1,1
+"plan and prepare advertising and promotional material to increase sales of products or services, working with customers, company officials, sales departments, and advertising agencies.",True,1,1
+plan parties or other special events and services.,False,0,0
+"plan, coordinate and implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure.",False,0,0
+"plan, coordinate, and implement network security measures to protect data, software, and hardware.",True,1,1
+"position text and art elements from a variety of databases in a visually appealing way to design print or web pages, using knowledge of type styles and size and layout patterns.",True,1,1
+prepare and deliver lectures to undergraduate or graduate students on topics such as how to speak and write a foreign language and the cultural aspects of areas where a particular language is used.,True,1,1
+"prepare and present summaries and analyses of survey data, including tables, graphs, and fact sheets that describe survey techniques and results.",True,1,1
+prepare appropriate formatting to data sets as requested.,True,1,1
+"prepare data analysis listings and activity, performance, or progress reports.",True,1,1
+"prepare data for processing by organizing information, checking for any inaccuracies, and adjusting and weighting the raw data.",False,0,0
+"prepare detailed workflow charts and diagrams that describe input, output, and logical operation, and convert them into a series of instructions coded in a computer language.",True,1,1
+"prepare invoices, reports, memos, letters, financial statements, and other documents, using word processing, spreadsheet, database, or presentation software.",True,1,1
+prepare management reports defining and evaluating problems and recommending solutions.,True,1,1
+"prepare or edit organizational publications, such as employee newsletters or stockholders' reports, for internal or external audiences.",True,1,1
+"prepare project status reports by collecting, analyzing, and summarizing information and trends.",True,1,1
+prepare reports and document project activities and data.,True,1,1
+"prepare reports of activities, evaluations, recommendations, or decisions.",True,1,1
+"prepare reports of findings, illustrating data graphically and translating complex findings into written text.",True,1,1
+"prepare reports or recommendations, based upon research outcomes.",True,1,1
+"prepare reports, manuscripts, and meeting presentations.",False,0,0
+"prepare reports, manuscripts, proposals, and technical manuals for use by other scientists and requestors, such as sponsors and customers.",True,1,1
+prepare responses to correspondence containing routine inquiries.,True,1,1
+prepare sales presentations or proposals to explain product specifications or applications.,True,1,1
+"prepare tables, graphs, fact sheets, and written reports summarizing research results.",True,1,1
+prepare technical reports and recommendations based upon research outcomes.,False,0,0
+"prepare technical reports, data summary documents, or research articles for scientific publication, regulatory submissions, or patent applications.",True,1,1
+"prepare written and oral reports describing research results, using illustrations, maps, appendices, and other information.",False,0,0
+"prepare, administer, and grade tests and assignments to evaluate students' progress.",True,7,7
+"prepare, analyze, and verify annual reports, financial statements, and other records, using accepted accounting and statistical procedures to assess financial condition and facilitate financial planning.",False,0,0
+"prepare, manipulate, and manage extensive databases.",True,1,1
+"prepare, rewrite and edit copy to improve readability, or supervise others who do this work.",True,1,1
+"present investment information, such as product risks, fees, or fund performance statistics.",True,1,1
+"process and prepare documents, such as business or government forms and expense reports.",True,1,1
+program computerized graphic effects.,True,1,1
+program electronic equipment.,True,2,2
+"proofread, edit, and revise translated materials.",True,1,1
+"provide advice to clients on a contract basis, working as a consultant.",True,1,1
+provide assistance to students in college writing centers.,True,1,1
+provide customer service by greeting and assisting customers and responding to customer inquiries and complaints.,True,1,1
+"provide customer support and education, working with users to identify needs, determine sources of problems, or to provide information on product use.",False,0,0
+provide feedback and recommendations to developers on software usability and functionality.,True,1,1
+"provide information and advice to the public regarding the selection, purchase, and care of products.",True,1,1
+"provide occupational, educational, and other information to individuals so that they can make educational and vocational plans.",False,0,0
+"provide private instruction to individual or small groups of students to improve academic performance, improve occupational skills, or prepare for academic or occupational tests.",True,1,1
+provide professional consulting services to government or industry.,True,29,29
+"provide professional consulting services to government, educational institutions, or industry.",True,1,1
+"provide statistical and computational tools for biologically based activities such as genetic analysis, measurement of gene expression, and gene function determination.",False,0,0
+"provide technical and non-technical support and services to clients or other staff members regarding the use, operation, and maintenance of equipment.",True,1,1
+provide technical customer service.,True,1,1
+provide technical guidance or support for the development or troubleshooting of systems.,True,1,1
+"read from sacred texts such as the bible, torah, or koran.",False,0,0
+"read manuals, periodicals, and technical reports to learn how to develop programs that meet staff and user requirements.",True,1,1
+"read written materials, such as legal documents, scientific works, or news reports, and rewrite material into specified languages.",True,1,1
+"read, evaluate and edit manuscripts or other materials submitted for publication and confer with authors regarding changes in content, style or organization, or publication.",False,0,0
+recommend and provide advice on a wide variety of products and services.,True,1,1
+"recommend financial products, such as stocks, bonds, mutual funds, or insurance.",True,1,1
+"recommend investments and investment timing to companies, investment firm staff, or the public.",True,2,2
+"recommend, select, and help locate or obtain merchandise based on customer needs and desires.",True,1,1
+record symbols on computer storage media and use computer aided transcription to translate and display them as text.,True,1,1
+"record the exact locations and conditions of artifacts uncovered in diggings or surveys, using drawings and photographs as necessary.",True,1,1
+"reformat documents, moving paragraphs or columns.",True,1,1
+reinstall software programs or adjust settings on existing software to fix machine malfunctions.,True,1,1
+"report results of statistical analyses, including information in the form of graphs, charts, and tables.",True,1,1
+research and identify potential customers for products or services.,True,1,1
+"research or develop analytical tools to address issues such as portfolio construction or optimization, performance measurement, attribution, profit and loss measurement, or pricing models.",True,1,1
+"research, compile, analyze and organize information from maps, reports, investigations, and books for use in reports and special projects.",True,1,1
+respond to customer inquiries or complaints.,True,1,1
+respond to general inquiries or requests from the public.,True,1,1
+respond to program error messages by finding and correcting problems or terminating the program.,False,0,0
+retrieve information from central databases for storage in a library's computer.,True,1,1
+"retrieve, separate and sort program output as needed, and send data to specified users.",False,0,0
+"review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes.",True,1,1
+"review and analyze new, proposed, or revised laws, regulations, policies, and procedures to interpret their meaning and determine their impact.",True,1,1
+"review and edit transcribed reports or dictated material for spelling, grammar, clarity, consistency, and proper medical terminology.",True,1,1
+"review class material with students by discussing text, working solutions to problems, or reviewing worksheets or other assignments.",True,1,1
+"review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement.",True,1,1
+"review instructional content, methods, and student evaluations to assess strengths and weaknesses, and to develop recommendations for course revision, development, or elimination.",True,2,2
+"review papers or serve on editorial boards for scientific journals, and review grant proposals for federal agencies.",True,1,1
+"review software documentation to ensure technical accuracy, compliance, or completeness, or to mitigate risks.",True,1,1
+"review written, audio, or video copy and correct errors in content, grammar, or punctuation, following prescribed editorial style and formatting guidelines.",False,0,0
+"review, classify, and record survey data in preparation for computer analysis.",True,1,1
+"revise programs or tapes to eliminate errors, and retest programs to check that problems have been solved.",True,1,1
+"search electronic sources, such as databases or repositories, or manual sources for information.",True,1,1
+"search standard reference materials, including online sources and the internet, to answer patrons' reference questions.",True,1,1
+seek and provide information to help companies determine their position in the marketplace.,True,1,1
+"select and edit documents for publication and display, applying knowledge of subject, literary expression, and presentation techniques.",True,1,1
+"share information about religious issues by writing articles, giving speeches, or teaching.",True,1,1
+"store, retrieve, and manipulate data for analysis of system capabilities and requirements.",True,3,3
+study documentation or other information for new scientific or technical products.,True,1,1
+"study the objectives, promotional policies, or needs of organizations to develop public relations strategies that will influence public opinion or promote ideas, products, or services.",True,1,1
+study the structure and composition of food or the changes foods undergo in storage and processing.,True,1,1
+"take dictation using shorthand, a stenotype machine, or headsets and transcribing machines.",True,1,1
+"test machines, components, materials, or products to determine characteristics such as performance, strength, or response to stress.",True,1,1
+"test programs or databases, correct errors, and make necessary modifications.",True,2,2
+"test, maintain, and monitor computer programs and systems, including coordinating the installation of computer programs and systems.",True,1,1
+transcribe recorded proceedings in accordance with established formats.,True,1,1
+"translate data into numbers, equations, flow charts, graphs, or other forms.",False,0,0
+troubleshoot network or connectivity problems for users or user groups.,True,1,1
+"troubleshoot problems involving office equipment, such as computer hardware and software.",True,1,1
+tutor and assist children individually or in small groups to help them master assignments and to reinforce learning concepts presented by teachers.,True,2,2
+"type, file, and duplicate materials.",True,1,1
+"use computer skills and software to manage web sites or databases, publish newsletters, or provide webinars.",True,1,1
+use computer software to generate new images.,True,1,1
+"use computers for various applications, such as database management or word processing.",True,1,1
+"use data entry devices, such as optical scanners, to input data into computers for revision or editing.",True,1,1
+use models to simulate the behavior of animated objects in the finished sequence.,True,1,1
+use nondisciplinary tools and equipment such as a computer.,False,0,0
+"use the computer in the analysis and solution of business problems, such as development of integrated production and inventory control and cost analysis systems.",True,1,1
+"write advertising copy for use by publication, broadcast, or internet media to promote the sale of goods and services.",False,0,0
+write and edit news stories from information collected by reporters and other sources.,True,1,1
+"write articles, bulletins, sales letters, speeches, and other related informative, marketing and promotional material.",True,1,1
+write computer or microprocessor software programs.,False,0,0
+write computer programs or scripts to be used in querying databases.,True,1,1
+write detailed analysis plans and descriptions of analyses and findings for research protocols or reports.,True,1,1
+"write humorous material for publication, or for performances such as comedy routines, gags, and comedy shows.",True,1,1
+"write interesting and effective press releases, prepare information for media kits, and develop and maintain company internet or intranet web pages.",True,2,2
+"write narrative, dramatic, lyric, or other types of poetry for publication.",True,1,1
+"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",True,1,1
+"write original or adapted material for dramas, comedies, puppet shows, narration, or other performances.",True,1,1
+write program code to analyze data using statistical analysis software.,False,0,0
+write reports on research findings and implications to contribute to general knowledge and to suggest potential changes in organizational functioning.,False,0,0
+write research reports and other publications to document and communicate research findings.,True,1,1
+"write reviews of literary, musical, or other artwork, based on knowledge, judgment, or experience.",False,0,0
+write supporting code for web applications or web sites.,True,2,2
+"write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.",True,1,1
+"write, design, or edit web page content, or direct others producing content.",False,0,0
+"write, present, and publish reports that record site history, methodology, and artifact analysis results, along with recommendations for conserving and interpreting findings.",False,0,0
+"write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.",True,1,1

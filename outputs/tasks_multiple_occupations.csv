@@ -1,0 +1,22 @@
+task,matched,occupation_count,onet_task_id_count
+"analyze records, reports, test results, or examination information to diagnose medical condition of patient.",True,2,2
+assist students who need extra help with their coursework outside of class.,True,2,2
+collaborate with management or users to develop e-commerce strategies and to integrate these strategies with web sites.,True,2,2
+"conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",True,29,29
+"design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",True,2,2
+develop or implement procedures for ongoing web site revision.,True,3,3
+"evaluate and grade students' class work, assignments, and papers.",True,21,21
+evaluate or recommend server hardware or software.,True,2,2
+"identify, evaluate and recommend hardware or software technologies to achieve desired database performance.",True,2,2
+"instruct through lectures, discussions, and demonstrations in one or more subjects, such as english, mathematics, or social studies.",True,4,4
+"interpret data on price, yield, stability, future investment-risk trends, economic influences, and other factors affecting investment programs.",True,2,2
+"prepare, administer, and grade tests and assignments to evaluate students' progress.",True,7,7
+program electronic equipment.,True,2,2
+provide professional consulting services to government or industry.,True,29,29
+"recommend investments and investment timing to companies, investment firm staff, or the public.",True,2,2
+"review instructional content, methods, and student evaluations to assess strengths and weaknesses, and to develop recommendations for course revision, development, or elimination.",True,2,2
+"store, retrieve, and manipulate data for analysis of system capabilities and requirements.",True,3,3
+"test programs or databases, correct errors, and make necessary modifications.",True,2,2
+tutor and assist children individually or in small groups to help them master assignments and to reinforce learning concepts presented by teachers.,True,2,2
+"write interesting and effective press releases, prepare information for media kits, and develop and maintain company internet or intranet web pages.",True,2,2
+write supporting code for web applications or web sites.,True,2,2

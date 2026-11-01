@@ -1,0 +1,63 @@
+task,matched,occupation_count,onet_task_id_count
+"advise clients on market conditions, prices, mortgages, legal requirements and related matters.",False,0,0
+"analyze information processing or computation needs and plan and design computer systems, using techniques such as structured analysis, data modeling and information engineering.",False,0,0
+"analyze information to determine, recommend, and plan computer specifications and layouts, and peripheral equipment modifications.",False,0,0
+analyze market conditions to determine optimum times to execute securities transactions.,False,0,0
+analyze target companies or investment opportunities to inform investment decisions.,False,0,0
+"answer inquiries regarding information such as schedules, accommodations, procedures, and policies.",False,0,0
+"break systems into their component parts, assign numerical values to each component, and examine the mathematical relationships between them.",False,0,0
+"compile, sort and verify the accuracy of data before it is entered.",False,0,0
+"conduct classes, workshops, and demonstrations, and provide individual instruction to teach topics and skills such as cooking, dancing, writing, physical fitness, photography, personal finance, and flying.",False,0,0
+conduct materials test and analysis using tools and equipment and applying engineering knowledge.,False,0,0
+"contact prospective customers to determine customer needs, present information, or explain available services.",False,0,0
+"design databases to support business applications, ensuring system scalability, security, performance and reliability.",False,0,0
+"design information storage and retrieval systems and develop procedures for collecting, organizing, interpreting, and classifying information.",False,0,0
+"design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcome and consequences of design.",False,0,0
+"develop and direct software system testing and validation procedures, programming, and documentation.",False,0,0
+"develop data model describing data elements and how they are used, following procedures and using pen, template or computer software.",False,0,0
+"develop factors such as themes, plots, characterizations, psychological analyses, historical environments, action, and dialogue, to create material.",False,0,0
+develop instructional materials and products for technology-based redesign of courses.,False,0,0
+develop instructional materials to be used by educators and instructors.,False,0,0
+develop or direct software system testing or validation procedures.,False,0,0
+"develop or manage integrated security controls to ensure confidentiality, accountability, recoverability, or audit ability of sensitive information, proprietary information, or information technology resources.",False,0,0
+develop standards and guidelines to guide the use and acquisition of software and to protect vulnerable information.,False,0,0
+"develop teaching aids such as instructional software, multimedia visual aids, or study materials.",False,0,0
+direct software programming and development of documentation.,False,0,0
+discuss the treatment of problems with clients.,False,0,0
+"edit or rewrite existing copy as necessary, and submit copy for approval by supervisor.",False,0,0
+"evaluate curricula, teaching methods, and programs to determine their effectiveness, efficiency, and utilization, and to ensure that school activities comply with federal, state, and local regulations.",False,0,0
+evaluate sources of information to determine any limitations in terms of reliability or usability.,False,0,0
+"file and store completed documents on computer hard drive or disk, or maintain a computer filing system to store, retrieve, update and delete documents.",False,0,0
+gather and organize information to plan advertising campaigns.,False,0,0
+help programmers and systems analysts test and debug new programs.,False,0,0
+"install updated software, and programs that maintain existing software or provide requested features such as time-correlated call routing.",False,0,0
+"instruct individuals in career development techniques such as job search and application strategies, resume writing, and interview skills.",False,0,0
+"instruct students in the knowledge and skills required in a specific occupation or occupational field, using a systematic plan of lectures, discussions, audio-visual presentations, and laboratory, shop and field studies.",False,0,0
+"interact with clients to assist them in gaining insight, defining goals, and planning action to achieve effective personal, social, educational, and vocational development and adjustment.",False,0,0
+"modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.",False,0,0
+"organize information for publication and for other means of dissemination, such as use in cd-roms or internet sites.",False,0,0
+"perform routine system administrative functions such as troubleshooting, back-ups, and upgrades.",False,0,0
+plan parties or other special events and services.,False,0,0
+"plan, coordinate and implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure.",False,0,0
+"prepare data for processing by organizing information, checking for any inaccuracies, and adjusting and weighting the raw data.",False,0,0
+"prepare reports, manuscripts, and meeting presentations.",False,0,0
+prepare technical reports and recommendations based upon research outcomes.,False,0,0
+"prepare written and oral reports describing research results, using illustrations, maps, appendices, and other information.",False,0,0
+"prepare, analyze, and verify annual reports, financial statements, and other records, using accepted accounting and statistical procedures to assess financial condition and facilitate financial planning.",False,0,0
+"provide customer support and education, working with users to identify needs, determine sources of problems, or to provide information on product use.",False,0,0
+"provide occupational, educational, and other information to individuals so that they can make educational and vocational plans.",False,0,0
+"provide statistical and computational tools for biologically based activities such as genetic analysis, measurement of gene expression, and gene function determination.",False,0,0
+"read from sacred texts such as the bible, torah, or koran.",False,0,0
+"read, evaluate and edit manuscripts or other materials submitted for publication and confer with authors regarding changes in content, style or organization, or publication.",False,0,0
+respond to program error messages by finding and correcting problems or terminating the program.,False,0,0
+"retrieve, separate and sort program output as needed, and send data to specified users.",False,0,0
+"review written, audio, or video copy and correct errors in content, grammar, or punctuation, following prescribed editorial style and formatting guidelines.",False,0,0
+"translate data into numbers, equations, flow charts, graphs, or other forms.",False,0,0
+use nondisciplinary tools and equipment such as a computer.,False,0,0
+"write advertising copy for use by publication, broadcast, or internet media to promote the sale of goods and services.",False,0,0
+write computer or microprocessor software programs.,False,0,0
+write program code to analyze data using statistical analysis software.,False,0,0
+write reports on research findings and implications to contribute to general knowledge and to suggest potential changes in organizational functioning.,False,0,0
+"write reviews of literary, musical, or other artwork, based on knowledge, judgment, or experience.",False,0,0
+"write, design, or edit web page content, or direct others producing content.",False,0,0
+"write, present, and publish reports that record site history, methodology, and artifact analysis results, along with recommendations for conserving and interpreting findings.",False,0,0

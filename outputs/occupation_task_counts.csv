@@ -1,0 +1,202 @@
+occupation_code,occupation_title,task_count
+15-1243.00,Database Architects,9
+15-1253.00,Software Quality Assurance Analysts and Testers,8
+15-1251.00,Computer Programmers,7
+15-1211.00,Computer Systems Analysts,7
+15-1255.00,Web and Digital Interface Designers,6
+15-1254.00,Web Developers,6
+43-6014.00,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",6
+13-1161.01,Search Marketing Strategists,5
+13-1161.00,Market Research Analysts and Marketing Specialists,5
+15-1299.08,Computer Systems Engineers/Architects,5
+15-2099.01,Bioinformatics Technicians,5
+25-1123.00,"English Language and Literature Teachers, Postsecondary",5
+13-2051.00,Financial and Investment Analysts,4
+15-1243.01,Data Warehousing Specialists,4
+25-1051.00,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",4
+13-2052.00,Personal Financial Advisors,4
+15-1299.01,Web Administrators,4
+19-4061.00,Social Science Research Assistants,4
+25-3041.00,Tutors,4
+15-1231.00,Computer Network Support Specialists,3
+15-1242.00,Database Administrators,3
+11-3013.01,Security Managers,3
+15-1299.03,Document Management Specialists,3
+13-1199.06,Online Merchants,3
+11-3031.03,Investment Fund Managers,3
+19-3022.00,Survey Researchers,3
+25-1125.00,"History Teachers, Postsecondary",3
+25-1065.00,"Political Science Teachers, Postsecondary",3
+25-1062.00,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",3
+25-1067.00,"Sociology Teachers, Postsecondary",3
+25-1113.00,"Social Work Teachers, Postsecondary",3
+25-1111.00,"Criminal Justice and Law Enforcement Teachers, Postsecondary",3
+25-1064.00,"Geography Teachers, Postsecondary",3
+25-1011.00,"Business Teachers, Postsecondary",3
+25-1042.00,"Biological Science Teachers, Postsecondary",3
+25-1122.00,"Communications Teachers, Postsecondary",3
+15-2051.01,Business Intelligence Analysts,3
+15-2051.02,Clinical Data Managers,3
+15-2021.00,Mathematicians,3
+25-1081.00,"Education Teachers, Postsecondary",3
+25-3011.00,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",3
+25-1193.00,"Recreation and Fitness Studies Teachers, Postsecondary",3
+25-1063.00,"Economics Teachers, Postsecondary",3
+41-2011.00,Cashiers,3
+41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",3
+41-3031.00,"Securities, Commodities, and Financial Services Sales Agents",3
+43-6011.00,Executive Secretaries and Executive Administrative Assistants,3
+25-1043.00,"Forestry and Conservation Science Teachers, Postsecondary",2
+25-1041.00,"Agricultural Sciences Teachers, Postsecondary",2
+25-1031.00,"Architecture Teachers, Postsecondary",2
+25-1032.00,"Engineering Teachers, Postsecondary",2
+25-1021.00,"Computer Science Teachers, Postsecondary",2
+25-1054.00,"Physics Teachers, Postsecondary",2
+25-1061.00,"Anthropology and Archeology Teachers, Postsecondary",2
+25-1066.00,"Psychology Teachers, Postsecondary",2
+11-2011.00,Advertising and Promotions Managers,2
+11-2032.00,Public Relations Managers,2
+15-2031.00,Operations Research Analysts,2
+15-1252.00,Software Developers,2
+15-1255.01,Video Game Designers,2
+13-2099.01,Financial Quantitative Analysts,2
+13-2054.00,Financial Risk Specialists,2
+13-2011.00,Accountants and Auditors,2
+15-2041.00,Statisticians,2
+17-2061.00,Computer Hardware Engineers,2
+15-1211.01,Health Informatics Specialists,2
+15-1244.00,Network and Computer Systems Administrators,2
+15-1212.00,Information Security Analysts,2
+25-1071.00,"Health Specialties Teachers, Postsecondary",2
+25-2031.00,"Secondary School Teachers, Except Special and Career/Technical Education",2
+25-2057.00,"Special Education Teachers, Middle School",2
+25-2022.00,"Middle School Teachers, Except Special and Career/Technical Education",2
+25-2058.00,"Special Education Teachers, Secondary School",2
+27-3042.00,Technical Writers,2
+27-3043.05,"Poets, Lyricists and Creative Writers",2
+27-1014.00,Special Effects Artists and Animators,2
+27-3031.00,Public Relations Specialists,2
+25-4031.00,Library Technicians,2
+25-1124.00,"Foreign Language and Literature Teachers, Postsecondary",2
+25-1192.00,"Family and Consumer Sciences Teachers, Postsecondary",2
+25-1126.00,"Philosophy and Religion Teachers, Postsecondary",2
+43-4111.00,"Interviewers, Except Eligibility and Loan",2
+49-2011.00,"Computer, Automated Teller, and Office Machine Repairers",2
+43-9061.00,"Office Clerks, General",2
+43-9022.00,Word Processors and Typists,2
+51-9162.00,Computer Numerically Controlled Tool Programmers,2
+43-3031.00,"Bookkeeping, Accounting, and Auditing Clerks",2
+41-9031.00,Sales Engineers,2
+41-2031.00,Retail Salespersons,2
+25-9042.00,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",2
+25-9031.00,Instructional Coordinators,2
+25-1053.00,"Environmental Science Teachers, Postsecondary",2
+25-1052.00,"Chemistry Teachers, Postsecondary",2
+25-1082.00,"Library Science Teachers, Postsecondary",2
+31-9094.00,Medical Transcriptionists,2
+27-3092.00,Court Reporters and Simultaneous Captioners,2
+27-3091.00,Interpreters and Translators,2
+25-1112.00,"Law Teachers, Postsecondary",2
+25-1072.00,"Nursing Instructors and Teachers, Postsecondary",2
+25-1121.00,"Art, Drama, and Music Teachers, Postsecondary",2
+19-1029.01,Bioinformatics Scientists,1
+19-1012.00,Food Scientists and Technologists,1
+19-1023.00,Zoologists and Wildlife Biologists,1
+19-1022.00,Microbiologists,1
+19-1021.00,Biochemists and Biophysicists,1
+11-2021.00,Marketing Managers,1
+11-2033.00,Fundraising Managers,1
+11-1011.00,Chief Executives,1
+11-1021.00,General and Operations Managers,1
+11-3021.00,Computer and Information Systems Managers,1
+17-3027.00,Mechanical Engineering Technologists and Technicians,1
+17-3022.00,Civil Engineering Technologists and Technicians,1
+17-2199.08,Robotics Engineers,1
+17-2199.07,Photonics Engineers,1
+17-2199.03,"Energy Engineers, Except Wind and Solar",1
+17-2141.00,Mechanical Engineers,1
+17-2031.00,Bioengineers and Biomedical Engineers,1
+15-1299.02,Geographic Information Systems Technologists and Technicians,1
+15-1299.09,Information Technology Project Managers,1
+15-2011.00,Actuaries,1
+15-2041.01,Biostatisticians,1
+11-9121.01,Clinical Research Coordinators,1
+13-1111.00,Management Analysts,1
+13-1199.04,Business Continuity Planners,1
+11-9179.02,Spa Managers,1
+11-9199.08,Loss Prevention Managers,1
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",1
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",1
+13-1041.00,Compliance Officers,1
+15-1221.00,Computer and Information Research Scientists,1
+11-9179.01,Fitness and Wellness Coordinators,1
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",1
+13-2061.00,Financial Examiners,1
+15-1232.00,Computer User Support Specialists,1
+15-1241.01,Telecommunications Engineering Specialists,1
+15-1241.00,Computer Network Architects,1
+11-3031.00,Financial Managers,1
+25-2032.00,"Career/Technical Education Teachers, Secondary School",1
+25-2023.00,"Career/Technical Education Teachers, Middle School",1
+25-2021.00,"Elementary School Teachers, Except Special Education",1
+25-1194.00,"Career/Technical Education Teachers, Postsecondary",1
+19-3091.00,Anthropologists and Archeologists,1
+19-3094.00,Political Scientists,1
+19-3051.00,Urban and Regional Planners,1
+19-3034.00,School Psychologists,1
+19-2031.00,Chemists,1
+19-3011.00,Economists,1
+25-1022.00,"Mathematical Science Teachers, Postsecondary",1
+23-1021.00,"Administrative Law Judges, Adjudicators, and Hearing Officers",1
+19-2042.00,"Geoscientists, Except Hydrologists and Geographers",1
+19-2099.01,Remote Sensing Scientists and Technologists,1
+19-2032.00,Materials Scientists,1
+19-2011.00,Astronomers,1
+19-4099.03,Remote Sensing Technicians,1
+19-4071.00,Forest and Conservation Technicians,1
+19-4021.00,Biological Technicians,1
+19-4012.00,Agricultural Technicians,1
+21-1013.00,Marriage and Family Therapists,1
+21-1012.00,"Educational, Guidance, and Career Counselors and Advisors",1
+21-1014.00,Mental Health Counselors,1
+21-2011.00,Clergy,1
+27-2012.00,Producers and Directors,1
+27-2011.00,Actors,1
+27-1024.00,Graphic Designers,1
+27-1011.00,Art Directors,1
+25-9043.00,"Teaching Assistants, Special Education",1
+25-3021.00,Self-Enrichment Teachers,1
+25-4022.00,Librarians and Media Collections Specialists,1
+25-4011.00,Archivists,1
+39-1013.00,First-Line Supervisors of Gambling Services Workers,1
+37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",1
+29-2012.00,Medical and Clinical Laboratory Technicians,1
+29-1218.00,Obstetricians and Gynecologists,1
+29-1141.03,Critical Care Nurses,1
+29-1216.00,General Internal Medicine Physicians,1
+29-1031.00,Dietitians and Nutritionists,1
+27-4032.00,Film and Video Editors,1
+27-3041.00,Editors,1
+27-4021.00,Photographers,1
+27-3043.00,Writers and Authors,1
+25-9044.00,"Teaching Assistants, Postsecondary",1
+27-1013.00,"Fine Artists, Including Painters, Sculptors, and Illustrators",1
+41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",1
+41-1011.00,First-Line Supervisors of Retail Sales Workers,1
+41-2021.00,Counter and Rental Clerks,1
+43-4021.00,Correspondence Clerks,1
+41-9041.00,Telemarketers,1
+41-9091.00,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",1
+43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,1
+43-9081.00,Proofreaders and Copy Markers,1
+43-9111.00,Statistical Assistants,1
+45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",1
+43-9031.00,Desktop Publishers,1
+47-2231.00,Solar Photovoltaic Installers,1
+51-6052.00,"Tailors, Dressmakers, and Custom Sewers",1
+51-6063.00,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",1
+51-6062.00,"Textile Cutting Machine Setters, Operators, and Tenders",1
+51-7032.00,"Patternmakers, Wood",1
+51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",1
+53-3031.00,Driver/Sales Workers,1
+53-7065.00,Stockers and Order Fillers,1
