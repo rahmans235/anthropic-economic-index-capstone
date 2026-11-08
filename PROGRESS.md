@@ -147,43 +147,76 @@
 
 > [!NOTE]
 > **Progress**
-- Continued analyzing how the automation gap between API and Claude.ai changes over time.
-- Completed the decomposition analysis to understand what contributed to the narrowing of the automation gap.
-- Found that API automation decreased more than Claude.ai automation between August 2025 and February 2026.
-- Downloaded official O*NET task data to connect our 352 matched tasks to occupations.
-- Created map_tasks_to_occupations.py to match task descriptions with occupations.
-- Successfully matched 290 out of 352 tasks (82.39%) to O*NET occupations.
-- Created check_occupation_mapping.py to evaluate the quality of the matches.
-- Compared automation-gap changes between matched and unmatched tasks.
-- Continued analyzing how the automation gap between API and Claude.ai changes over time.
-- Completed the decomposition analysis to understand what contributed to the narrowing of the automation gap.
-- Found that API automation decreased more than Claude.ai automation between August 2025 and February 2026.
-- Downloaded official O*NET task data to connect our 352 matched tasks to occupations.
-- Created map_tasks_to_occupations.py to match task descriptions with occupations.
-- Successfully matched 290 out of 352 tasks (82.39%) to O*NET occupations.
-- Created check_occupation_mapping.py to evaluate the quality of the matches.
-- Compared automation-gap changes between matched and unmatched tasks.
+> - Continued analyzing how the automation gap between API and Claude.ai changes over time.
+> - Completed the decomposition analysis to understand what contributed to the narrowing of the automation gap.
+> - Found that API automation decreased more than Claude.ai automation between August 2025 and February 2026.
+> - Downloaded official O*NET task data to connect our 352 matched tasks to occupations.
+> - Created map_tasks_to_occupations.py to match task descriptions with occupations.
+> - Successfully matched 290 out of 352 tasks (82.39%) to O*NET occupations.
+> - Created check_occupation_mapping.py to evaluate the quality of the matches.
+> - Compared automation-gap changes between matched and unmatched tasks.
+> - Continued analyzing how the automation gap between API and Claude.ai changes over time.
+> - Completed the decomposition analysis to understand what contributed to the narrowing of the automation gap.
+> - Found that API automation decreased more than Claude.ai automation between August 2025 and February 2026.
+> - Downloaded official O*NET task data to connect our 352 matched tasks to occupations.
+> - Created map_tasks_to_occupations.py to match task descriptions with occupations.
+> - Successfully matched 290 out of 352 tasks (82.39%) to O*NET occupations.
+> - Created check_occupation_mapping.py to evaluate the quality of the matches.
+> - Compared automation-gap changes between matched and unmatched tasks.
 
 > [!IMPORTANT]
 > **Initial Finding**
-- The average automation gap narrowed by approximately 4.8 percentage points from August 2025 to February 2026.
-- API automation decreased by approximately 7.2 percentage points, while Claude.ai automation decreased by approximately 2.4 percentage points.
-- Of the 352 tasks, 221 (62.8%) experienced a narrowing automation gap.
-- The 290 tasks matched to occupations had an average gap change of −4.54 percentage points, which is similar to the −4.80 percentage points for all 352 tasks.
-- The occupation mapping identified 201 occupations, but only 12 had at least five matched tasks.
+> - The average automation gap narrowed by approximately 4.8 percentage points from August 2025 to February 2026.
+> - API automation decreased by approximately 7.2 percentage points, while Claude.ai automation decreased by approximately 2.4 percentage points.
+> - Of the 352 tasks, 221 (62.8%) experienced a narrowing automation gap.
+> - The 290 tasks matched to occupations had an average gap change of −4.54 percentage points, which is similar to the −4.80 percentage points for all 352 tasks.
+> - The occupation mapping identified 201 occupations, but only 12 had at least five matched tasks.
 
 > [!WARNING]
 > **Limitation Identified**
-- 62 tasks could not be matched to an occupation using exact or normalized task descriptions, possibly because of differences between O*NET database versions or wording.
-- 21 tasks matched multiple occupations, making it difficult to assign them to a single occupation.
-- Many individual occupations have too few matched tasks for meaningful comparisons.
-- The matched tasks may not fully represent all 352 tasks, so occupation-level findings will need to be interpreted carefully.
+> - 62 tasks could not be matched to an occupation using exact or normalized task descriptions, possibly because of differences between O*NET database versions or wording.
+> - 21 tasks matched multiple occupations, making it difficult to assign them to a single occupation.
+> - Many individual occupations have too few matched tasks for meaningful comparisons.
+> - The matched tasks may not fully represent all 352 tasks, so occupation-level findings will need to be interpreted carefully.
 
  ### Next Step
-- Group occupations into broader O*NET-SOC categories rather than analyzing individual occupations.
-- Start with the 269 tasks that matched exactly one occupation to avoid double-counting.
-- Compare automation-gap changes across broader occupation groups to identify which types of work experienced the largest narrowing or widening.
-- Check whether the results remain similar when including tasks associated with multiple occupations.
-- Continue evaluating our hypothesis that the API–Claude.ai automation gap becomes smaller over the study period when comparing the same tasks.
+> - Group occupations into broader O*NET-SOC categories rather than analyzing individual occupations.
+> - Start with the 269 tasks that matched exactly one occupation to avoid double-counting.
+> - Compare automation-gap changes across broader occupation groups to identify which types of work experienced the largest narrowing or widening.
+> - Check whether the results remain similar when including tasks associated with multiple occupations.
+> - Continue evaluating our hypothesis that the API–Claude.ai automation gap becomes smaller over the study period when comparing the same tasks.
 
 ---
+
+## Week of November 2 - 9
+
+> [!NOTE]
+> **Progress**
+> - Analyzed automation-gap changes across broader O*NET occupation groups.
+> - Used 269 tasks that matched exactly one occupation to avoid duplicate counting.
+> - Grouped occupations into broader categories using SOC codes.
+> - Created src/analyze_occupation_groups.py to compare automation-gap changes across occupation groups.
+> - Generated occupation_group_gap_changes.png to visualize the results.
+> - Performed a sensitivity check that included tasks linked to multiple occupations.
+
+> [!IMPORTANT]
+> **Initial Finding**
+> - The automation gap narrowed by different amounts across occupation groups.
+> - Computer and Mathematical occupations showed an average decrease of approximately 6.75 percentage points across 84 tasks.
+> - Business and Financial occupations showed a smaller decrease of approximately 2.84 percentage points across 30 tasks.
+> - Office and Administrative Support showed a decrease of approximately 1.23 percentage points across 22 tasks.
+> - The main patterns remained similar for larger occupation groups when including tasks linked to multiple occupations.
+ 
+> [!WARNING]
+> **Limitation Identified**
+> - Some occupation groups contain very few matched tasks, making their results less reliable.
+> - Only 290 of the original 352 tasks were matched to occupations, so the analysis does not represent every task.
+> - Tasks linked to multiple occupations require special handling to avoid double counting.
+> - Differences between occupation groups are currently descriptive and have not yet been statistically tested.
+
+### Next Step
+> - Conduct statistical tests to determine whether automation-gap changes differ meaningfully across occupation groups.
+> - Focus on occupation groups with sufficient task counts.
+> - Continue evaluating the reliability of the occupation mapping and create additional visualizations if needed.
+
+--- 
